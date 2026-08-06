@@ -1,0 +1,46 @@
+# Writes your WakaTime coding stats into the profile README.
+#
+# Goes in the profile repo at .github/workflows/waka-readme.yml
+#
+# Unlike an image service, this rewrites the README text itself — so it never
+# 503s, and the stats are readable as plain text (which also means recruiters
+# scanning the page actually see them).
+#
+# Setup:
+#   1. Install the WakaTime extension in your editor and sign in.
+#   2. wakatime.com -> Settings -> copy your Secret API Key.
+#   3. This repo -> Settings -> Secrets and variables -> Actions -> New secret
+#      Name: WAKATIME_API_KEY
+#   4. Put these two markers in README.md where the stats should appear:
+#        <!--START_SECTION:waka-->
+#        <!--END_SECTION:waka-->
+
+name: WakaTime Stats
+
+on:
+  schedule:
+    # Daily at 00:30 UTC — WakaTime aggregates overnight.
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update README with WakaTime stats
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SHOW_TITLE: "true"
+          BLOCKS: "░▒▓█"
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 6
+          SHOW_TIME: "true"
+          SHOW_TOTAL: "true"
+          SHOW_MASKED_TIME: "false"
+          # Stops the action committing when nothing changed.
+          COMMIT_MESSAGE: "chore: update WakaTime stats"

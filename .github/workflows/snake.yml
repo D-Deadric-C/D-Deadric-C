@@ -1,16 +1,16 @@
 # Generates the contribution-grid snake animation.
 #
-# Goes in the profile repo at .github/workflows/snake.yml
+# Replaces the existing .github/workflows/snake.yml in the profile repo.
 #
-# Output is committed to a branch named "output", which is what the README
-# reads from. The greyscale palette matches the monochrome profile theme
-# rather than GitHub's default green.
+# The only change from a stock setup is the palette: greyscale instead of
+# GitHub's green, to match the monochrome README. Output filenames are kept
+# exactly as before so the README references keep working.
 
 name: Generate snake
 
 on:
   schedule:
-    # Every 12 hours, so the animation tracks recent contributions.
+    # Twice a day, so the animation tracks recent contributions.
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
@@ -29,9 +29,11 @@ jobs:
         id: snake
         with:
           github_user_name: ${{ github.repository_owner }}
+          # Filenames must match what the README already points at.
+          # color_dots runs from the empty cell to the busiest, low to high.
           outputs: |
-            dist/snake-dark.svg?color_snake=#E6EDF3&color_dots=#161B22,#30363D,#484F58,#6E7681,#8B949E
-            dist/snake-light.svg?color_snake=#24292F&color_dots=#EBEDF0,#D0D7DE,#AFB8C1,#8C959F,#6E7781
+            dist/github-contribution-grid-snake.svg?color_snake=#24292F&color_dots=#EBEDF0,#D0D7DE,#AFB8C1,#8C959F,#57606A
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#F0F6FC&color_dots=#161B22,#30363D,#484F58,#6E7681,#8B949E
 
       - name: Publish to the output branch
         uses: crazy-max/ghaction-github-pages@v4

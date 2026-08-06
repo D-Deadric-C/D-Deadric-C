@@ -156,6 +156,23 @@
 
 <div align="center">
 
+## Coding Activity
+
+</div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<br />
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0D1117,50:8B949E,100:0D1117" alt="" />
+</div>
+
+<br />
+
+<div align="center">
+
 ## Activity
 
 <br />
@@ -166,10 +183,6 @@
 <br /><br />
 
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Deadric-C&layout=compact&hide_border=true&bg_color=00000000&title_color=F0F6FC&text_color=8B949E&langs_count=8" alt="" />
-
-<br /><br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=D-Deadric-C&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="" />
 
 <br /><br />
 
@@ -195,4 +208,4 @@
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:8B949E,30:30363D,70:1C2128,100:0D1117&animation=twinkling" alt="" />
-</div>v
+</div>

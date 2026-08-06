@@ -1,16 +1,7 @@
-# Generates the contribution-grid snake animation.
-#
-# Replaces the existing .github/workflows/snake.yml in the profile repo.
-#
-# The only change from a stock setup is the palette: greyscale instead of
-# GitHub's green, to match the monochrome README. Output filenames are kept
-# exactly as before so the README references keep working.
-
-name: Generate snake
+name: Generate Snake
 
 on:
   schedule:
-    # Twice a day, so the animation tracks recent contributions.
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
@@ -21,21 +12,21 @@ permissions:
   contents: write
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Build snake SVGs
+      - name: Generate contribution snake
         uses: Platane/snk@v3
-        id: snake
         with:
-          github_user_name: ${{ github.repository_owner }}
-          # Filenames must match what the README already points at.
-          # color_dots runs from the empty cell to the busiest, low to high.
+          github_user_name: D-Deadric-C
+          # Pure monochrome, inverted between themes.
+          # color_dots runs empty cell -> busiest day, so the ramp ends on the
+          # "ink" colour: white on dark, black on light.
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#24292F&color_dots=#EBEDF0,#D0D7DE,#AFB8C1,#8C959F,#57606A
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#F0F6FC&color_dots=#161B22,#30363D,#484F58,#6E7681,#8B949E
+            dist/github-contribution-grid-snake.svg?color_snake=#000000&color_dots=#FFFFFF,#CCCCCC,#999999,#4D4D4D,#000000
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#FFFFFF&color_dots=#000000,#333333,#666666,#B3B3B3,#FFFFFF
 
-      - name: Publish to the output branch
+      - name: Push snake animation to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output

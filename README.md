@@ -1,35 +1,37 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,40:1C2128,70:30363D,100:8B949E&text=Suryansh%20Sharma&fontColor=F0F6FC&fontSize=46&fontAlignY=36&animation=fadeIn&desc=Software%20Engineer%20%C2%B7%20AI%20Systems%20%C2%B7%20Full%20Stack&descSize=17&descAlignY=56" alt="" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0D1117,40:1C2128,70:30363D,100:8B949E&animation=fadeIn" alt="" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&duration=2600&pause=60000&color=F0F6FC&center=true&vCenter=true&repeat=false&width=460&height=44&lines=SURYANSH+SHARMA" alt="" />
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2800&pause=900&color=8B949E&center=true&vCenter=true&width=460&height=24&lines=ai+systems+%C2%B7+backend+%C2%B7+cloud;containerised%2C+tested%2C+deployed;shipping+%E2%80%94+not+prototyping" alt="" />
 </div>
 
 <div align="center">
 
 ```
-╔═════════════════════════════════════════════════════════════════════════╗
-║  ● ● ●                                                            bash  ║░
-╠═════════════════════════════════════════════════════════════════════════╣░
-║                                                                         ║░
-║          █▓           [D-Deadric-C@arch ~]$ neofetch                    ║░
-║         ██▓▓                                                            ║░
-║        ███▓▓▓         user ......  Suryansh Sharma                      ║░
-║       ████▓▓▓▓        host ......  Thapar Institute · B.E. CSE '27      ║░
-║      █████▓▓▓▓▓       langs .....  Python · TypeScript · C++            ║░
-║     ██████▓▓▓▓▓▓      backend ...  FastAPI · Node · Next.js             ║░
-║    ███████▓▓▓▓▓▓▓     data ......  PostgreSQL · Redis · ChromaDB        ║░
-║   ██████    ▓▓▓▓▓▓    cloud .....  Docker · Azure · GCP                 ║░
-║  ██████      ▓▓▓▓▓▓   uptime ....  1,100+ problems · top 12% LeetCode   ║░
-║   ░░░░░░░░░░░░░░░░░   status ....  open to SWE internships              ║░
-║                                                                         ║░
-║                       [D-Deadric-C@arch ~]$ █                           ║░
-║                                                                         ║░
-╚═════════════════════════════════════════════════════════════════════════╝░
- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+╔════════════════════════════════════════════════════════════════╗
+║  ● ● ●                                                   bash  ║▓░
+╠════════════════════════════════════════════════════════════════╣▓░
+║                                                                ║▓░
+║          █▓           [D-Deadric-C@arch ~]$ neofetch           ║▓░
+║         ██▓▓                                                   ║▓░
+║        ███▓▓▓         user ....  Suryansh Sharma               ║▓░
+║       ████▓▓▓▓        host ....  Thapar · B.E. CSE '27         ║▓░
+║      █████▓▓▓▓▓       langs ...  Python · TypeScript · C++     ║▓░
+║     ██████▓▓▓▓▓▓      stack ...  FastAPI · Next.js · Postgres  ║▓░
+║    ███████▓▓▓▓▓▓▓     cloud ...  Docker · Azure · GCP          ║▓░
+║   ██████    ▓▓▓▓▓▓    algo ....  1,100+ solved · top 12%       ║▓░
+║  ██████      ▓▓▓▓▓▓   status ..  open to SWE internships       ║▓░
+║   ░░░░░░░░░░░░░░░░░                                            ║▓░
+║                       [D-Deadric-C@arch ~]$ █                  ║▓░
+║                                                                ║▓░
+╚════════════════════════════════════════════════════════════════╝▓░
+ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░
+  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=560&lines=Building+AI+products+end+to+end;LLM+pipelines+%C2%B7+backends+%C2%B7+cloud;Containerised%2C+tested%2C+deployed;Shipping+%E2%80%94+not+prototyping" alt="" />
 </div>
 
 <div align="center">
@@ -45,31 +47,27 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0D1117,50:8B949E,100:0D1117" alt="" />
 </div>
 
-<br />
-
 <div align="center">
 
 ```
-        ╔═════════════════════════════════════════════╗
-        ║  I build software that reaches production.  ║░
-        ║                                             ║░
-        ║  From LLM pipelines and backend services    ║░
-        ║  through containerisation, cloud deployment ║░
-        ║  and automated testing.                     ║░
-        ╚═════════════════════════════════════════════╝░
-         ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+╔═══════════════════════════════════════════════╗
+║  I build software that reaches production.    ║▓░
+║                                               ║▓░
+║  LLM pipelines and backend services, through  ║▓░
+║  containerisation, cloud deploy and testing.  ║▓░
+╚═══════════════════════════════════════════════╝▓░
+ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░
+  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
 </div>
 
-<br />
-
 <table align="center">
   <tr>
-    <td align="center" width="25%"><b>Currently</b><br /><sub>B.E. Computer Science<br />Thapar Institute · 2027</sub></td>
-    <td align="center" width="25%"><b>Focus</b><br /><sub>AI systems<br />Cloud infrastructure</sub></td>
-    <td align="center" width="25%"><b>Algorithms</b><br /><sub>1,100+ problems<br />Top 12% on LeetCode</sub></td>
-    <td align="center" width="25%"><b>Open to</b><br /><sub>Software engineering<br />internships</sub></td>
+    <td align="center" width="25%"><sub><b>CURRENTLY</b></sub><br /><sub>B.E. Computer Science<br />Thapar · 2027</sub></td>
+    <td align="center" width="25%"><sub><b>FOCUS</b></sub><br /><sub>AI systems<br />Cloud infrastructure</sub></td>
+    <td align="center" width="25%"><sub><b>ALGORITHMS</b></sub><br /><sub>1,100+ problems<br />Top 12% LeetCode</sub></td>
+    <td align="center" width="25%"><sub><b>OPEN TO</b></sub><br /><sub>Software engineering<br />internships</sub></td>
   </tr>
 </table>
 
@@ -79,42 +77,46 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0D1117,50:8B949E,100:0D1117" alt="" />
 </div>
 
-<br />
-
 <div align="center">
 
-## Stack
-
-<sub>every layer below is something I've shipped, not something I've read about</sub>
-
-<br />
+```
+█▀▀  ▀█▀  █▀█  █▀▀  █ █ ▓
+▀▀█   █   █▀█  █    █▀▄ ▓
+▀▀▀   ▀   ▀ ▀  ▀▀▀  ▀ ▀ ▓
+  ░░░░░░░░░░░░░░░░░░░░░░░
+```
 
 ```
-╔════════════════════════════════════════════════════╗
-║  ▓▓  INTERFACE                                     ║░
-║      Next.js · React · TypeScript · Tailwind       ║░
-╚════════════════════════════════════════════════════╝░
- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-╔════════════════════════════════════════════════════╗
-║  ▓▓  SERVICE                                       ║░
-║      FastAPI · Node · Prisma · REST + streaming    ║░
-╚════════════════════════════════════════════════════╝░
- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-╔════════════════════════════════════════════════════╗
-║  ▓▓  INTELLIGENCE                                  ║░
-║      LangChain · Gemini · Whisper · ChromaDB       ║░
-╚════════════════════════════════════════════════════╝░
- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-╔════════════════════════════════════════════════════╗
-║  ▓▓  STATE                                         ║░
-║      PostgreSQL · Redis · vector stores            ║░
-╚════════════════════════════════════════════════════╝░
- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-╔════════════════════════════════════════════════════╗
-║  ▓▓  PLATFORM                                      ║░
-║      Docker · Azure Container Apps · GCP · CI/CD   ║░
-╚════════════════════════════════════════════════════╝░
- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+╔══════════════════════════════════════════════════╗
+║  ▓▓  INTERFACE                                   ║▓░
+║      Next.js · React · TypeScript · Tailwind     ║▓░
+╚══════════════════════════════════════════════════╝▓░
+ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░
+  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+╔══════════════════════════════════════════════════╗
+║  ▓▓  SERVICE                                     ║▓░
+║      FastAPI · Node · Prisma · streaming         ║▓░
+╚══════════════════════════════════════════════════╝▓░
+ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░
+  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+╔══════════════════════════════════════════════════╗
+║  ▓▓  INTELLIGENCE                                ║▓░
+║      LangChain · Gemini · Whisper · ChromaDB     ║▓░
+╚══════════════════════════════════════════════════╝▓░
+ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░
+  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+╔══════════════════════════════════════════════════╗
+║  ▓▓  STATE                                       ║▓░
+║      PostgreSQL · Redis · vector stores          ║▓░
+╚══════════════════════════════════════════════════╝▓░
+ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░
+  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+╔══════════════════════════════════════════════════╗
+║  ▓▓  PLATFORM                                    ║▓░
+║      Docker · Azure Container Apps · CI/CD       ║▓░
+╚══════════════════════════════════════════════════╝▓░
+ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░
+  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
 <br />
@@ -156,15 +158,14 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0D1117,50:8B949E,100:0D1117" alt="" />
 </div>
 
-<br />
-
 <div align="center">
 
-## Work
-
-<sub>the shape most of my systems take</sub>
-
-<br />
+```
+█ █  █▀█  █▀█  █ █ ▓
+█▄█  █ █  █▀▄  █▀▄ ▓
+▀▀▀  ▀▀▀  ▀ ▀  ▀ ▀ ▓
+  ░░░░░░░░░░░░░░░░░░
+```
 
 ```
   ┌────────────┐       ┌────────────┐       ┌────────────┐       ┌────────────┐
@@ -172,7 +173,8 @@
 ┌────────────┐ │     ┌────────────┐ │     ┌────────────┐ │     ┌────────────┐ │
 │   INGEST   │ ╱ ──▶ │   EMBED    │ ╱ ──▶ │  RETRIEVE  │ ╱ ──▶ │   SERVE    │ ╱
 └────────────┘╱      └────────────┘╱      └────────────┘╱      └────────────┘╱
- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
 </div>
@@ -226,17 +228,16 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0D1117,50:8B949E,100:0D1117" alt="" />
 </div>
 
-<br />
-
 <div align="center">
 
-## Depth
-
-<br />
+```
+█▀▄  █▀▀  █▀█  ▀█▀  █ █ ▓
+█ █  █▀▀  █▀▀   █   █▀█ ▓
+▀▀   ▀▀▀  ▀     ▀   ▀ ▀ ▓
+  ░░░░░░░░░░░░░░░░░░░░░░░
+```
 
 <img width="92%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/profile-3d-contrib/profile-mono.svg" alt="" />
-
-<br />
 
 ```
                                                 ▒▒▓
@@ -250,7 +251,10 @@
 ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓
 ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓
 ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓
- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+   ╱  ╱  ╱  ╱  ╱  ╱  ╱  ╱  ╱  ╱  ╱  ╱  ╱  ╱  ╱  ╱  ╱  ╱  ╱  ╱  ╱  ╱  ╱
+  ───────────────────────────────────────────────────────────────────────
 ```
 
 </div>
@@ -261,11 +265,14 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0D1117,50:8B949E,100:0D1117" alt="" />
 </div>
 
-<br />
-
 <div align="center">
 
-## Coding Activity
+```
+█ █  █▀█  █ █  █▀█  █▀▀ ▓
+█▀█  █ █  █ █  █▀▄  ▀▀█ ▓
+▀ ▀  ▀▀▀  ▀▀▀  ▀ ▀  ▀▀▀ ▓
+  ░░░░░░░░░░░░░░░░░░░░░░░
+```
 
 </div>
 
@@ -292,35 +299,36 @@ YAML         17 mins               █▒░░░░░░░░░░░░░
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0D1117,50:8B949E,100:0D1117" alt="" />
 </div>
 
-<br />
-
 <div align="center">
 
-## Activity
+```
+█▀█  █▀▀  ▀█▀   █   █ █   █   ▀█▀  █ █ ▓
+█▀█  █     █    █   █ █   █    █   ▀█▀ ▓
+▀ ▀  ▀▀▀   ▀    ▀    ▀    ▀    ▀    ▀  ▓
+  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+```
 
-<br />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=D-Deadric-C&show_icons=true&hide_border=true&bg_color=00000000&title_color=F0F6FC&text_color=8B949E&icon_color=F0F6FC&include_all_commits=true&count_private=true&hide_title=true&rank_icon=github" alt="" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=D-Deadric-C&hide_border=true&background=00000000&stroke=30363D&ring=F0F6FC&fire=F0F6FC&currStreakLabel=8B949E&sideNums=F0F6FC&currStreakNum=F0F6FC&dates=6E7681&sideLabels=8B949E" alt="" />
-
-<br /><br />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Deadric-C&layout=compact&hide_border=true&bg_color=00000000&title_color=F0F6FC&text_color=8B949E&langs_count=8" alt="" />
-
-<br /><br />
-
-<img width="96%" src="https://github-profile-trophy.vercel.app/?username=D-Deadric-C&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=D-Deadric-C&show_icons=true&hide_border=true&bg_color=00000000&title_color=F0F6FC&text_color=8B949E&icon_color=F0F6FC&include_all_commits=true&count_private=true&hide_title=true&rank_icon=github" alt="" />
+<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=D-Deadric-C&hide_border=true&background=00000000&stroke=30363D&ring=F0F6FC&fire=F0F6FC&currStreakLabel=8B949E&sideNums=F0F6FC&currStreakNum=F0F6FC&dates=6E7681&sideLabels=8B949E" alt="" />
 
 <br /><br />
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=D-Deadric-C&bg_color=00000000&color=F0F6FC&line=8B949E&point=F0F6FC&area=true&area_color=30363D&hide_border=true&custom_title=Contribution%20Activity" alt="" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Deadric-C&layout=compact&hide_border=true&bg_color=00000000&title_color=F0F6FC&text_color=8B949E&langs_count=8" alt="" />
+
+<br /><br />
+
+<img width="94%" src="https://github-profile-trophy.vercel.app/?username=D-Deadric-C&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="" />
+
+<br /><br />
+
+<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=D-Deadric-C&bg_color=00000000&color=F0F6FC&line=8B949E&point=F0F6FC&area=true&area_color=30363D&hide_border=true&custom_title=Contribution%20Activity" alt="" />
 
 <br /><br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/output/github-contribution-grid-snake.svg" />
-  <img width="96%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/output/github-contribution-grid-snake-dark.svg" alt="" />
+  <img width="94%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/output/github-contribution-grid-snake-dark.svg" alt="" />
 </picture>
 
 </div>
@@ -330,21 +338,20 @@ YAML         17 mins               █▒░░░░░░░░░░░░░
 <div align="center">
 
 ```
-      ╔══════════════════════════════════════════════════════╗
-      ║                                                      ║░
-      ║  [D-Deadric-C@arch ~]$ cat contact.txt               ║░
-      ║                                                      ║░
-      ║  > open to software engineering internships          ║░
-      ║  > suryansh456789@gmail.com                          ║░
-      ║                                                      ║░
-      ║  [D-Deadric-C@arch ~]$ exit █                        ║░
-      ║                                                      ║░
-      ╚══════════════════════════════════════════════════════╝░
-       ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+╔══════════════════════════════════════════════╗
+║  [D-Deadric-C@arch ~]$ cat contact.txt       ║▓░
+║                                              ║▓░
+║  > open to software engineering internships  ║▓░
+║  > suryansh456789@gmail.com                  ║▓░
+║                                              ║▓░
+║  [D-Deadric-C@arch ~]$ exit █                ║▓░
+╚══════════════════════════════════════════════╝▓░
+ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░
+  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:8B949E,30:30363D,70:1C2128,100:0D1117&animation=twinkling" alt="" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:8B949E,30:30363D,70:1C2128,100:0D1117&animation=twinkling" alt="" />
 </div>

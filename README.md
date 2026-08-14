@@ -1,147 +1,181 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,40:1C2128,70:30363D,100:8B949E&text=Suryansh%20Sharma&fontColor=F0F6FC&fontSize=46&fontAlignY=36&animation=fadeIn&desc=Software%20Engineer%20%C2%B7%20AI%20Systems%20%C2%B7%20Full%20Stack&descSize=17&descAlignY=56" alt="" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=190&color=0:0D1117,35:1C2128,65:2D2350,100:A371F7&text=SURYANSH%20SHARMA&fontColor=F0F6FC&fontSize=42&fontAlignY=42&animation=fadeIn&desc=AI%20Systems%20%C2%B7%20Backend%20%C2%B7%20Cloud%20Infrastructure&descSize=16&descAlignY=62" alt="" />
 </div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=1000&color=8B949E&center=true&vCenter=true&width=680&lines=Building+AI+products+end+to+end;LLM+pipelines+%C2%B7+backend+services+%C2%B7+cloud+infrastructure;Containerised%2C+tested%2C+deployed;Shipping+%E2%80%94+not+prototyping" alt="" />
-</div>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/suryansh-sharma-a76b52324"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=F0F6FC" alt="" /></a>
-  <a href="https://leetcode.com/u/iamgreatness/"><img src="https://img.shields.io/badge/LeetCode-161B22?style=for-the-badge&logo=leetcode&logoColor=F0F6FC" alt="" /></a>
-  <a href="mailto:suryansh456789@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=F0F6FC" alt="" /></a>
-  <img src="https://komarev.com/ghpvc/?username=D-Deadric-C&style=for-the-badge&color=30363D&label=VIEWS" alt="" />
-</div>
-
-<br />
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0D1117,50:8B949E,100:0D1117" alt="" />
-</div>
-
-<br />
 
 <div align="center">
 
 ```
-                 ─────────────────────────────────────────
-                   I build software that reaches production.
+███████╗██╗   ██╗██████╗ ██╗   ██╗ █████╗ ███╗   ██╗███████╗██╗  ██╗
+██╔════╝██║   ██║██╔══██╗╚██╗ ██╔╝██╔══██╗████╗  ██║██╔════╝██║  ██║
+███████╗██║   ██║██████╔╝ ╚████╔╝ ███████║██╔██╗ ██║███████╗███████║
+╚════██║██║   ██║██╔══██╗  ╚██╔╝  ██╔══██║██║╚██╗██║╚════██║██╔══██║
+███████║╚██████╔╝██║  ██║   ██║   ██║  ██║██║ ╚████║███████║██║  ██║
+╚══════╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝
+```
 
-                   From LLM pipelines and backend services
-                   through containerisation, cloud deployment
-                   and automated testing.
-                 ─────────────────────────────────────────
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=900&color=A371F7&center=true&vCenter=true&width=720&lines=I+don't+prototype.+I+ship.;LLM+pipelines+that+survive+production+traffic;346+automated+tests+%C2%B7+2+containers+%C2%B7+0+excuses;Ask+any+repo+a+question+%E2%80%94+GitPulse+answers" alt="" />
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/suryansh-sharma-a76b52324"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=A371F7&labelColor=161B22" alt="" /></a>
+  <a href="https://leetcode.com/u/iamgreatness/"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=A371F7&labelColor=161B22" alt="" /></a>
+  <a href="mailto:suryansh456789@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=A371F7&labelColor=161B22" alt="" /></a>
+  <img src="https://komarev.com/ghpvc/?username=D-Deadric-C&style=for-the-badge&color=A371F7&label=VISITORS&labelColor=161B22" alt="" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,50:A371F7,100:0D1117" alt="" />
+</div>
+
+<br />
+
+<div align="center">
+
+```console
+$ whoami --verbose
+
+  ┌─ identity ─────────────────────────────────────────────┐
+  │  Suryansh Sharma                                       │░
+  │  B.E. Computer Science · Thapar Institute · 2027        │░
+  ├─ signal ───────────────────────────────────────────────┤░
+  │  1,100+ problems solved  ·  top 12% on LeetCode         │░
+  │  Production deploys, not weekend demos                  │░
+  ├─ status ───────────────────────────────────────────────┤░
+  │  ● OPEN  →  software engineering internships            │░
+  └────────────────────────────────────────────────────────┘░
+    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+$ _
 ```
 
 </div>
 
 <br />
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%"><b>Currently</b><br /><sub>B.E. Computer Science<br />Thapar Institute · 2027</sub></td>
-    <td align="center" width="25%"><b>Focus</b><br /><sub>AI systems<br />Cloud infrastructure</sub></td>
-    <td align="center" width="25%"><b>Algorithms</b><br /><sub>1,100+ problems<br />Top 12% on LeetCode</sub></td>
-    <td align="center" width="25%"><b>Open to</b><br /><sub>Software engineering<br />internships</sub></td>
-  </tr>
-</table>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,50:30363D,100:0D1117" alt="" />
+</div>
+
+<div align="center">
+
+## ⛰ &nbsp;The Stack, Layer by Layer
+
+<sub>every layer below is something I've shipped, not something I've read about</sub>
 
 <br />
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0D1117,50:8B949E,100:0D1117" alt="" />
+```
+╔════════════════════════════════════════════════════╗
+║  ▓▓  INTERFACE                                     ║░
+║      Next.js · React · TypeScript · Tailwind       ║░
+╚════════════════════════════════════════════════════╝░
+ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+╔════════════════════════════════════════════════════╗
+║  ▓▓  SERVICE                                       ║░
+║      FastAPI · Node · Prisma · REST + streaming    ║░
+╚════════════════════════════════════════════════════╝░
+ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+╔════════════════════════════════════════════════════╗
+║  ▓▓  INTELLIGENCE                                  ║░
+║      LangChain · Gemini · Whisper · ChromaDB · RAG ║░
+╚════════════════════════════════════════════════════╝░
+ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+╔════════════════════════════════════════════════════╗
+║  ▓▓  STATE                                         ║░
+║      PostgreSQL · Redis · vector stores            ║░
+╚════════════════════════════════════════════════════╝░
+ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+╔════════════════════════════════════════════════════╗
+║  ▓▓  PLATFORM                                      ║░
+║      Docker · Azure Container Apps · GCP · CI/CD   ║░
+╚════════════════════════════════════════════════════╝░
+ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+```
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,react,nextjs,tailwind,nodejs,fastapi&theme=dark&perline=9" alt="" />
+<br />
+<img src="https://skillicons.dev/icons?i=postgres,redis,prisma,docker,azure,gcp,vercel,linux,git&theme=dark&perline=9" alt="" />
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/Gemini-0D1117?style=flat-square&logo=googlegemini&logoColor=A371F7&labelColor=161B22" alt="" />
+<img src="https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=langchain&logoColor=A371F7&labelColor=161B22" alt="" />
+<img src="https://img.shields.io/badge/Hugging_Face-0D1117?style=flat-square&logo=huggingface&logoColor=A371F7&labelColor=161B22" alt="" />
+<img src="https://img.shields.io/badge/Ollama-0D1117?style=flat-square&logo=ollama&logoColor=A371F7&labelColor=161B22" alt="" />
+<img src="https://img.shields.io/badge/ChromaDB-0D1117?style=flat-square&logoColor=A371F7&labelColor=161B22" alt="" />
+<img src="https://img.shields.io/badge/Whisper-0D1117?style=flat-square&logo=openai&logoColor=A371F7&labelColor=161B22" alt="" />
+
 </div>
 
 <br />
 
 <div align="center">
-
-## Stack
-
-<table>
-  <tr>
-    <td align="right" width="26%"><sub><b>LANGUAGES</b></sub></td>
-    <td><img src="https://skillicons.dev/icons?i=ts,js,python,cpp&theme=dark" alt="" /></td>
-  </tr>
-  <tr>
-    <td align="right"><sub><b>FRONTEND</b></sub></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" alt="" /></td>
-  </tr>
-  <tr>
-    <td align="right"><sub><b>BACKEND</b></sub></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,fastapi,prisma,postgres,redis&theme=dark" alt="" /></td>
-  </tr>
-  <tr>
-    <td align="right"><sub><b>CLOUD &amp; OPS</b></sub></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,azure,gcp,vercel,linux,git&theme=dark" alt="" /></td>
-  </tr>
-  <tr>
-    <td align="right"><sub><b>AI</b></sub></td>
-    <td>
-      <img src="https://img.shields.io/badge/Gemini-161B22?style=flat-square&logo=googlegemini&logoColor=8B949E" alt="" />
-      <img src="https://img.shields.io/badge/LangChain-161B22?style=flat-square&logo=langchain&logoColor=8B949E" alt="" />
-      <img src="https://img.shields.io/badge/Hugging_Face-161B22?style=flat-square&logo=huggingface&logoColor=8B949E" alt="" />
-      <img src="https://img.shields.io/badge/Ollama-161B22?style=flat-square&logo=ollama&logoColor=8B949E" alt="" />
-      <img src="https://img.shields.io/badge/ChromaDB-161B22?style=flat-square&logoColor=8B949E" alt="" />
-    </td>
-  </tr>
-</table>
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,50:A371F7,100:0D1117" alt="" />
 </div>
-
-<br />
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0D1117,50:8B949E,100:0D1117" alt="" />
-</div>
-
-<br />
 
 <div align="center">
 
-## Work
+## ◈ &nbsp;Things I've Built
 
 </div>
 
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>⬢ &nbsp;GitPulse</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/01-GitPulse-0D1117?style=for-the-badge&labelColor=A371F7" alt="" />
+      </div>
+      <p align="center"><sub><b>Chat with any codebase — without cloning it.</b></sub></p>
       <p><sub>
-        AI repository intelligence. Chat with any codebase, generate architecture
-        diagrams, run security scans — without cloning.
+        Point it at a repo. It answers architecture questions, draws the diagrams,
+        and runs security scans on the way through.
       </sub></p>
       <p><sub>
-        Two containerised services on <b>Azure Container Apps</b>. Full-file context
-        injection instead of chunked retrieval. 346 automated tests.
+        The interesting bet: <b>full-file context injection</b> instead of chunked
+        retrieval — the model sees whole files, so it stops hallucinating call
+        graphs. Two containerised services on <b>Azure Container Apps</b>, held
+        together by <b>346 automated tests</b>.
       </sub></p>
-      <p>
+      <p align="center">
         <img src="https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=8B949E" alt="" />
         <img src="https://img.shields.io/badge/FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=8B949E" alt="" />
         <img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=8B949E" alt="" />
         <img src="https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=8B949E" alt="" />
       </p>
-      <a href="https://github.com/D-Deadric-C/GitAnalyze"><img src="https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=F0F6FC" alt="" /></a>
-      <a href="https://gitpulse-web.yellowstone-745f9fa6.centralindia.azurecontainerapps.io"><img src="https://img.shields.io/badge/Live-0D1117?style=flat-square&logo=vercel&logoColor=F0F6FC" alt="" /></a>
+      <p align="center">
+        <a href="https://github.com/D-Deadric-C/GitAnalyze"><img src="https://img.shields.io/badge/▸_SOURCE-0D1117?style=for-the-badge&logo=github&logoColor=F0F6FC&labelColor=161B22" alt="" /></a>
+        <a href="https://gitpulse-web.yellowstone-745f9fa6.centralindia.azurecontainerapps.io"><img src="https://img.shields.io/badge/▸_LIVE-0D1117?style=for-the-badge&logoColor=A371F7&labelColor=161B22" alt="" /></a>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3>⬢ &nbsp;AI Video Assistant</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/02-AI_Video_Assistant-0D1117?style=for-the-badge&labelColor=A371F7" alt="" />
+      </div>
+      <p align="center"><sub><b>Turns a two-hour video into something you can interrogate.</b></sub></p>
       <p><sub>
-        Transcribes and summarises full-length YouTube videos, then answers
-        questions grounded in the transcript.
+        Drop in a YouTube link. It transcribes the whole thing, summarises it,
+        then takes questions.
       </sub></p>
       <p><sub>
-        Whisper speech-to-text into a <b>RAG</b> pipeline with ChromaDB vector
-        storage and semantic retrieval.
+        <b>Whisper</b> speech-to-text feeds a <b>RAG</b> pipeline backed by
+        <b>ChromaDB</b>, so every answer is grounded in a real timestamp in the
+        transcript — no confident guessing.
       </sub></p>
-      <p>
+      <p align="center">
         <img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=8B949E" alt="" />
         <img src="https://img.shields.io/badge/LangChain-161B22?style=flat-square&logo=langchain&logoColor=8B949E" alt="" />
         <img src="https://img.shields.io/badge/Whisper-161B22?style=flat-square&logo=openai&logoColor=8B949E" alt="" />
         <img src="https://img.shields.io/badge/Streamlit-161B22?style=flat-square&logo=streamlit&logoColor=8B949E" alt="" />
       </p>
-      <a href="https://github.com/D-Deadric-C/YT_VID_ANAL"><img src="https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=F0F6FC" alt="" /></a>
-      <a href="https://ytvidana.streamlit.app/"><img src="https://img.shields.io/badge/Live-0D1117?style=flat-square&logo=streamlit&logoColor=F0F6FC" alt="" /></a>
+      <p align="center">
+        <a href="https://github.com/D-Deadric-C/YT_VID_ANAL"><img src="https://img.shields.io/badge/▸_SOURCE-0D1117?style=for-the-badge&logo=github&logoColor=F0F6FC&labelColor=161B22" alt="" /></a>
+        <a href="https://ytvidana.streamlit.app/"><img src="https://img.shields.io/badge/▸_LIVE-0D1117?style=for-the-badge&logo=streamlit&logoColor=A371F7&labelColor=161B22" alt="" /></a>
+      </p>
     </td>
   </tr>
 </table>
@@ -149,14 +183,28 @@
 <br />
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0D1117,50:8B949E,100:0D1117" alt="" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,50:30363D,100:0D1117" alt="" />
+</div>
+
+<div align="center">
+
+## ⬢ &nbsp;Contributions in Three Dimensions
+
+<br />
+
+<img width="90%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/profile-3d-contrib/profile-night-rainbow.svg" alt="" />
+
 </div>
 
 <br />
 
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,50:30363D,100:0D1117" alt="" />
+</div>
 
-## Coding Activity
+<div align="center">
+
+## ▤ &nbsp;Where the Hours Went
 
 </div>
 
@@ -180,34 +228,36 @@ YAML         17 mins               █▒░░░░░░░░░░░░░
 <br />
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0D1117,50:8B949E,100:0D1117" alt="" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,50:A371F7,100:0D1117" alt="" />
 </div>
-
-<br />
 
 <div align="center">
 
-## Activity
+## ▲ &nbsp;The Numbers
 
 <br />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=D-Deadric-C&show_icons=true&hide_border=true&bg_color=00000000&title_color=F0F6FC&text_color=8B949E&icon_color=F0F6FC&include_all_commits=true&count_private=true&hide_title=true&rank_icon=github" alt="" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=D-Deadric-C&hide_border=true&background=00000000&stroke=30363D&ring=F0F6FC&fire=F0F6FC&currStreakLabel=8B949E&sideNums=F0F6FC&currStreakNum=F0F6FC&dates=6E7681&sideLabels=8B949E" alt="" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=D-Deadric-C&show_icons=true&hide_border=true&bg_color=00000000&title_color=A371F7&text_color=8B949E&icon_color=A371F7&include_all_commits=true&count_private=true&hide_title=true&rank_icon=github" alt="" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=D-Deadric-C&hide_border=true&background=00000000&stroke=30363D&ring=A371F7&fire=A371F7&currStreakLabel=8B949E&sideNums=F0F6FC&currStreakNum=F0F6FC&dates=6E7681&sideLabels=8B949E" alt="" />
 
 <br /><br />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Deadric-C&layout=compact&hide_border=true&bg_color=00000000&title_color=F0F6FC&text_color=8B949E&langs_count=8" alt="" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Deadric-C&layout=compact&hide_border=true&bg_color=00000000&title_color=A371F7&text_color=8B949E&langs_count=8" alt="" />
 
 <br /><br />
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=D-Deadric-C&bg_color=00000000&color=F0F6FC&line=8B949E&point=F0F6FC&area=true&area_color=30363D&hide_border=true&custom_title=Contribution%20Activity" alt="" />
+<img width="94%" src="https://github-profile-trophy.vercel.app/?username=D-Deadric-C&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="" />
+
+<br /><br />
+
+<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=D-Deadric-C&bg_color=00000000&color=F0F6FC&line=A371F7&point=F0F6FC&area=true&area_color=2D2350&hide_border=true&custom_title=Contribution%20Activity" alt="" />
 
 <br /><br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/output/github-contribution-grid-snake.svg" />
-  <img width="96%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/output/github-contribution-grid-snake-dark.svg" alt="" />
+  <img width="94%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/output/github-contribution-grid-snake-dark.svg" alt="" />
 </picture>
 
 </div>
@@ -215,11 +265,17 @@ YAML         17 mins               █▒░░░░░░░░░░░░░
 <br />
 
 <div align="center">
-  <sub><b>Open to software engineering internships</b></sub>
-  <br />
-  <sub>suryansh456789@gmail.com</sub>
+
+```
+              ╭──────────────────────────────────────────╮
+              │   currently open to SWE internships      │░
+              │   suryansh456789@gmail.com               │░
+              ╰──────────────────────────────────────────╯░
+                ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+```
+
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:8B949E,30:30363D,70:1C2128,100:0D1117&animation=twinkling" alt="" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:A371F7,30:2D2350,70:1C2128,100:0D1117&animation=twinkling" alt="" />
 </div>

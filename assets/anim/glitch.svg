@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 150" width="720" height="150" role="img" font-family="ui-monospace,'JetBrains Mono',Consolas,monospace">
+<rect width="720" height="150" fill="#0D1117"/>
+<text x="360.0" y="92" text-anchor="middle" font-size="52" font-weight="700" letter-spacing=".14em" fill="#FF5C57" opacity=".85">SURYANSH SHARMA<animateTransform attributeName="transform" type="translate" values="0;0;4;0;-6;-6;-6;2;-4;0;-6;0;2;2;0" dur="2.6s" repeatCount="indefinite" calcMode="discrete"/></text>
+<text x="360.0" y="92" text-anchor="middle" font-size="52" font-weight="700" letter-spacing=".14em" fill="#56D4DD" opacity=".85">SURYANSH SHARMA<animateTransform attributeName="transform" type="translate" values="0;0;0;-2;0;4;4;-4;0;0;2;2;6;-2;0" dur="2.6s" repeatCount="indefinite" calcMode="discrete"/></text>
+<text x="360.0" y="92" text-anchor="middle" font-size="52" font-weight="700" letter-spacing=".14em" fill="#F0F6FC">SURYANSH SHARMA<animate attributeName="opacity" values="1;1;.72;1;1" dur="2.6s" repeatCount="indefinite" calcMode="discrete"/></text>
+<rect x="0" y="46" width="720" height="3" fill="#0D1117" opacity="0"><animate attributeName="opacity" values="0;0;.85;0;0" dur="2.2s" repeatCount="indefinite" calcMode="discrete"/></rect>
+<rect x="0" y="70" width="720" height="3" fill="#0D1117" opacity="0"><animate attributeName="opacity" values="0;0;.85;0;0" dur="2.6s" repeatCount="indefinite" calcMode="discrete"/></rect>
+<rect x="0" y="94" width="720" height="3" fill="#0D1117" opacity="0"><animate attributeName="opacity" values="0;0;.85;0;0" dur="3.0s" repeatCount="indefinite" calcMode="discrete"/></rect>
+<rect x="0" y="118" width="720" height="3" fill="#0D1117" opacity="0"><animate attributeName="opacity" values="0;0;.85;0;0" dur="3.4s" repeatCount="indefinite" calcMode="discrete"/></rect>
+</svg>

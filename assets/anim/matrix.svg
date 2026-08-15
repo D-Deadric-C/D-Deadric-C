@@ -1,0 +1,298 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 260" width="720" height="260" role="img" font-family="ui-monospace,'JetBrains Mono',Consolas,monospace">
+<rect width="720" height="260" fill="#0D1117"/>
+<defs><linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#0D1117" stop-opacity="1"/><stop offset="18%" stop-color="#0D1117" stop-opacity="0"/><stop offset="82%" stop-color="#0D1117" stop-opacity="0"/><stop offset="100%" stop-color="#0D1117" stop-opacity="1"/></linearGradient></defs>
+<g><animateTransform attributeName="transform" type="translate" from="0,-90" to="0,350" dur="6.32s" begin="-1.65s" repeatCount="indefinite"/>
+<text x="12.0" y="0" font-size="12.5" text-anchor="middle" fill="#159952" opacity="0.15">*<animate attributeName="opacity" values="0.15;0.06;0.15" dur="0.96s" repeatCount="indefinite"/></text>
+<text x="12.0" y="15" font-size="12.5" text-anchor="middle" fill="#18AC5D" opacity="0.31">A<animate attributeName="opacity" values="0.30;0.12;0.30" dur="1.13s" repeatCount="indefinite"/></text>
+<text x="12.0" y="30" font-size="12.5" text-anchor="middle" fill="#1BBF67" opacity="0.46">ヤ<animate attributeName="opacity" values="0.45;0.17;0.45" dur="0.93s" repeatCount="indefinite"/></text>
+<text x="12.0" y="45" font-size="12.5" text-anchor="middle" fill="#1ED372" opacity="0.61">A<animate attributeName="opacity" values="0.60;0.23;0.60" dur="1.21s" repeatCount="indefinite"/></text>
+<text x="12.0" y="60" font-size="12.5" text-anchor="middle" fill="#27E07D" opacity="0.77">$<animate attributeName="opacity" values="0.75;0.29;0.75" dur="1.41s" repeatCount="indefinite"/></text>
+<text x="12.0" y="75" font-size="12.5" text-anchor="middle" fill="#E6FFF2" opacity="0.92">ア<animate attributeName="opacity" values="0.90;0.35;0.90" dur="1.34s" repeatCount="indefinite"/></text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0,-105" to="0,365" dur="4.24s" begin="-2.09s" repeatCount="indefinite"/>
+<text x="36.0" y="0" font-size="12.5" text-anchor="middle" fill="#15968F" opacity="0.13">1<animate attributeName="opacity" values="0.13;0.05;0.13" dur="1.39s" repeatCount="indefinite"/></text>
+<text x="36.0" y="15" font-size="12.5" text-anchor="middle" fill="#17A79F" opacity="0.26">ハ<animate attributeName="opacity" values="0.26;0.10;0.26" dur="0.86s" repeatCount="indefinite"/></text>
+<text x="36.0" y="30" font-size="12.5" text-anchor="middle" fill="#1AB7AE" opacity="0.39">Z<animate attributeName="opacity" values="0.39;0.15;0.39" dur="1.05s" repeatCount="indefinite"/></text>
+<text x="36.0" y="45" font-size="12.5" text-anchor="middle" fill="#1CC8BE" opacity="0.53">Z<animate attributeName="opacity" values="0.51;0.20;0.51" dur="1.56s" repeatCount="indefinite"/></text>
+<text x="36.0" y="60" font-size="12.5" text-anchor="middle" fill="#1ED8CE" opacity="0.66">0<animate attributeName="opacity" values="0.64;0.25;0.64" dur="0.68s" repeatCount="indefinite"/></text>
+<text x="36.0" y="75" font-size="12.5" text-anchor="middle" fill="#2AE0D6" opacity="0.79">/<animate attributeName="opacity" values="0.77;0.30;0.77" dur="0.83s" repeatCount="indefinite"/></text>
+<text x="36.0" y="90" font-size="12.5" text-anchor="middle" fill="#E6FFF2" opacity="0.92">$<animate attributeName="opacity" values="0.90;0.35;0.90" dur="0.94s" repeatCount="indefinite"/></text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0,-135" to="0,395" dur="6.02s" begin="-5.42s" repeatCount="indefinite"/>
+<text x="60.0" y="0" font-size="12.5" text-anchor="middle" fill="#148792" opacity="0.10">ハ<animate attributeName="opacity" values="0.10;0.04;0.10" dur="1.51s" repeatCount="indefinite"/></text>
+<text x="60.0" y="15" font-size="12.5" text-anchor="middle" fill="#16939F" opacity="0.20">Z<animate attributeName="opacity" values="0.20;0.08;0.20" dur="1.40s" repeatCount="indefinite"/></text>
+<text x="60.0" y="30" font-size="12.5" text-anchor="middle" fill="#189FAC" opacity="0.31">}<animate attributeName="opacity" values="0.30;0.12;0.30" dur="1.43s" repeatCount="indefinite"/></text>
+<text x="60.0" y="45" font-size="12.5" text-anchor="middle" fill="#1AABB9" opacity="0.41">|<animate attributeName="opacity" values="0.40;0.16;0.40" dur="1.51s" repeatCount="indefinite"/></text>
+<text x="60.0" y="60" font-size="12.5" text-anchor="middle" fill="#1CB7C6" opacity="0.51">$<animate attributeName="opacity" values="0.50;0.19;0.50" dur="1.08s" repeatCount="indefinite"/></text>
+<text x="60.0" y="75" font-size="12.5" text-anchor="middle" fill="#1EC3D3" opacity="0.61">#<animate attributeName="opacity" values="0.60;0.23;0.60" dur="1.03s" repeatCount="indefinite"/></text>
+<text x="60.0" y="90" font-size="12.5" text-anchor="middle" fill="#20CEDF" opacity="0.72">Y<animate attributeName="opacity" values="0.70;0.27;0.70" dur="0.69s" repeatCount="indefinite"/></text>
+<text x="60.0" y="105" font-size="12.5" text-anchor="middle" fill="#2DD1E1" opacity="0.82">ア<animate attributeName="opacity" values="0.80;0.31;0.80" dur="1.06s" repeatCount="indefinite"/></text>
+<text x="60.0" y="120" font-size="12.5" text-anchor="middle" fill="#E6FFF2" opacity="0.92">}<animate attributeName="opacity" values="0.90;0.35;0.90" dur="1.32s" repeatCount="indefinite"/></text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0,-105" to="0,365" dur="7.57s" begin="-0.21s" repeatCount="indefinite"/>
+<text x="84.0" y="0" font-size="12.5" text-anchor="middle" fill="#159677" opacity="0.13">ナ<animate attributeName="opacity" values="0.13;0.05;0.13" dur="1.41s" repeatCount="indefinite"/></text>
+<text x="84.0" y="15" font-size="12.5" text-anchor="middle" fill="#17A784" opacity="0.26">+<animate attributeName="opacity" values="0.26;0.10;0.26" dur="1.21s" repeatCount="indefinite"/></text>
+<text x="84.0" y="30" font-size="12.5" text-anchor="middle" fill="#1AB791" opacity="0.39">ハ<animate attributeName="opacity" values="0.39;0.15;0.39" dur="1.26s" repeatCount="indefinite"/></text>
+<text x="84.0" y="45" font-size="12.5" text-anchor="middle" fill="#1CC89E" opacity="0.53">Z<animate attributeName="opacity" values="0.51;0.20;0.51" dur="0.76s" repeatCount="indefinite"/></text>
+<text x="84.0" y="60" font-size="12.5" text-anchor="middle" fill="#1ED8AC" opacity="0.66">=<animate attributeName="opacity" values="0.64;0.25;0.64" dur="0.62s" repeatCount="indefinite"/></text>
+<text x="84.0" y="75" font-size="12.5" text-anchor="middle" fill="#2AE0B4" opacity="0.79">/<animate attributeName="opacity" values="0.77;0.30;0.77" dur="1.13s" repeatCount="indefinite"/></text>
+<text x="84.0" y="90" font-size="12.5" text-anchor="middle" fill="#E6FFF2" opacity="0.92">=<animate attributeName="opacity" values="0.90;0.35;0.90" dur="1.03s" repeatCount="indefinite"/></text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0,-105" to="0,365" dur="6.87s" begin="-1.45s" repeatCount="indefinite"/>
+<text x="108.0" y="0" font-size="12.5" text-anchor="middle" fill="#15963D" opacity="0.13">E<animate attributeName="opacity" values="0.13;0.05;0.13" dur="1.10s" repeatCount="indefinite"/></text>
+<text x="108.0" y="15" font-size="12.5" text-anchor="middle" fill="#17A744" opacity="0.26">X<animate attributeName="opacity" values="0.26;0.10;0.26" dur="0.86s" repeatCount="indefinite"/></text>
+<text x="108.0" y="30" font-size="12.5" text-anchor="middle" fill="#1AB74B" opacity="0.39">カ<animate attributeName="opacity" values="0.39;0.15;0.39" dur="1.43s" repeatCount="indefinite"/></text>
+<text x="108.0" y="45" font-size="12.5" text-anchor="middle" fill="#1CC852" opacity="0.53">]<animate attributeName="opacity" values="0.51;0.20;0.51" dur="1.51s" repeatCount="indefinite"/></text>
+<text x="108.0" y="60" font-size="12.5" text-anchor="middle" fill="#1ED859" opacity="0.66">Z<animate attributeName="opacity" values="0.64;0.25;0.64" dur="1.50s" repeatCount="indefinite"/></text>
+<text x="108.0" y="75" font-size="12.5" text-anchor="middle" fill="#2AE063" opacity="0.79">ラ<animate attributeName="opacity" values="0.77;0.30;0.77" dur="1.02s" repeatCount="indefinite"/></text>
+<text x="108.0" y="90" font-size="12.5" text-anchor="middle" fill="#E6FFF2" opacity="0.92">ヤ<animate attributeName="opacity" values="0.90;0.35;0.90" dur="0.73s" repeatCount="indefinite"/></text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0,-105" to="0,365" dur="5.60s" begin="-0.10s" repeatCount="indefinite"/>
+<text x="132.0" y="0" font-size="12.5" text-anchor="middle" fill="#15965D" opacity="0.13">#<animate attributeName="opacity" values="0.13;0.05;0.13" dur="1.21s" repeatCount="indefinite"/></text>
+<text x="132.0" y="15" font-size="12.5" text-anchor="middle" fill="#17A768" opacity="0.26">+<animate attributeName="opacity" values="0.26;0.10;0.26" dur="0.77s" repeatCount="indefinite"/></text>
+<text x="132.0" y="30" font-size="12.5" text-anchor="middle" fill="#1AB772" opacity="0.39">ハ<animate attributeName="opacity" values="0.39;0.15;0.39" dur="1.22s" repeatCount="indefinite"/></text>
+<text x="132.0" y="45" font-size="12.5" text-anchor="middle" fill="#1CC87C" opacity="0.53">|<animate attributeName="opacity" values="0.51;0.20;0.51" dur="1.16s" repeatCount="indefinite"/></text>
+<text x="132.0" y="60" font-size="12.5" text-anchor="middle" fill="#1ED887" opacity="0.66">X<animate attributeName="opacity" values="0.64;0.25;0.64" dur="1.28s" repeatCount="indefinite"/></text>
+<text x="132.0" y="75" font-size="12.5" text-anchor="middle" fill="#2AE090" opacity="0.79">ラ<animate attributeName="opacity" values="0.77;0.30;0.77" dur="1.16s" repeatCount="indefinite"/></text>
+<text x="132.0" y="90" font-size="12.5" text-anchor="middle" fill="#E6FFF2" opacity="0.92">/<animate attributeName="opacity" values="0.90;0.35;0.90" dur="1.48s" repeatCount="indefinite"/></text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0,-90" to="0,350" dur="4.44s" begin="-1.23s" repeatCount="indefinite"/>
+<text x="156.0" y="0" font-size="12.5" text-anchor="middle" fill="#159999" opacity="0.15">ヤ<animate attributeName="opacity" values="0.15;0.06;0.15" dur="1.05s" repeatCount="indefinite"/></text>
+<text x="156.0" y="15" font-size="12.5" text-anchor="middle" fill="#18ACAC" opacity="0.31">1<animate attributeName="opacity" values="0.30;0.12;0.30" dur="1.36s" repeatCount="indefinite"/></text>
+<text x="156.0" y="30" font-size="12.5" text-anchor="middle" fill="#1BBFBF" opacity="0.46">{<animate attributeName="opacity" values="0.45;0.17;0.45" dur="1.04s" repeatCount="indefinite"/></text>
+<text x="156.0" y="45" font-size="12.5" text-anchor="middle" fill="#1ED3D3" opacity="0.61">ヤ<animate attributeName="opacity" values="0.60;0.23;0.60" dur="1.21s" repeatCount="indefinite"/></text>
+<text x="156.0" y="60" font-size="12.5" text-anchor="middle" fill="#27E0E0" opacity="0.77">$<animate attributeName="opacity" values="0.75;0.29;0.75" dur="1.29s" repeatCount="indefinite"/></text>
+<text x="156.0" y="75" font-size="12.5" text-anchor="middle" fill="#E6FFF2" opacity="0.92">タ<animate attributeName="opacity" values="0.90;0.35;0.90" dur="1.11s" repeatCount="indefinite"/></text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0,-135" to="0,395" dur="5.53s" begin="-1.37s" repeatCount="indefinite"/>
+<text x="180.0" y="0" font-size="12.5" text-anchor="middle" fill="#149269" opacity="0.10">C<animate attributeName="opacity" values="0.10;0.04;0.10" dur="1.52s" repeatCount="indefinite"/></text>
+<text x="180.0" y="15" font-size="12.5" text-anchor="middle" fill="#169F72" opacity="0.20">$<animate attributeName="opacity" values="0.20;0.08;0.20" dur="1.44s" repeatCount="indefinite"/></text>
+<text x="180.0" y="30" font-size="12.5" text-anchor="middle" fill="#18AC7B" opacity="0.31">=<animate attributeName="opacity" values="0.30;0.12;0.30" dur="1.02s" repeatCount="indefinite"/></text>
+<text x="180.0" y="45" font-size="12.5" text-anchor="middle" fill="#1AB985" opacity="0.41">ア<animate attributeName="opacity" values="0.40;0.16;0.40" dur="1.04s" repeatCount="indefinite"/></text>
+<text x="180.0" y="60" font-size="12.5" text-anchor="middle" fill="#1CC68E" opacity="0.51">{<animate attributeName="opacity" values="0.50;0.19;0.50" dur="1.27s" repeatCount="indefinite"/></text>
+<text x="180.0" y="75" font-size="12.5" text-anchor="middle" fill="#1ED397" opacity="0.61">サ<animate attributeName="opacity" values="0.60;0.23;0.60" dur="0.67s" repeatCount="indefinite"/></text>
+<text x="180.0" y="90" font-size="12.5" text-anchor="middle" fill="#20DFA0" opacity="0.72">F<animate attributeName="opacity" values="0.70;0.27;0.70" dur="1.38s" repeatCount="indefinite"/></text>
+<text x="180.0" y="105" font-size="12.5" text-anchor="middle" fill="#2DE1A6" opacity="0.82">+<animate attributeName="opacity" values="0.80;0.31;0.80" dur="1.54s" repeatCount="indefinite"/></text>
+<text x="180.0" y="120" font-size="12.5" text-anchor="middle" fill="#E6FFF2" opacity="0.92">0<animate attributeName="opacity" values="0.90;0.35;0.90" dur="0.74s" repeatCount="indefinite"/></text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0,-105" to="0,365" dur="7.46s" begin="-1.64s" repeatCount="indefinite"/>
+<text x="204.0" y="0" font-size="12.5" text-anchor="middle" fill="#157796" opacity="0.13">ア<animate attributeName="opacity" values="0.13;0.05;0.13" dur="1.48s" repeatCount="indefinite"/></text>
+<text x="204.0" y="15" font-size="12.5" text-anchor="middle" fill="#1785A7" opacity="0.26">*<animate attributeName="opacity" values="0.26;0.10;0.26" dur="1.59s" repeatCount="indefinite"/></text>
+<text x="204.0" y="30" font-size="12.5" text-anchor="middle" fill="#1A92B7" opacity="0.39">A<animate attributeName="opacity" values="0.39;0.15;0.39" dur="0.76s" repeatCount="indefinite"/></text>
+<text x="204.0" y="45" font-size="12.5" text-anchor="middle" fill="#1C9FC8" opacity="0.53">サ<animate attributeName="opacity" values="0.51;0.20;0.51" dur="1.59s" repeatCount="indefinite"/></text>
+<text x="204.0" y="60" font-size="12.5" text-anchor="middle" fill="#1EACD8" opacity="0.66">ア<animate attributeName="opacity" values="0.64;0.25;0.64" dur="0.94s" repeatCount="indefinite"/></text>
+<text x="204.0" y="75" font-size="12.5" text-anchor="middle" fill="#2AB5E0" opacity="0.79">$<animate attributeName="opacity" values="0.77;0.30;0.77" dur="0.96s" repeatCount="indefinite"/></text>
+<text x="204.0" y="90" font-size="12.5" text-anchor="middle" fill="#E6FFF2" opacity="0.92">}<animate attributeName="opacity" values="0.90;0.35;0.90" dur="1.32s" repeatCount="indefinite"/></text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0,-90" to="0,350" dur="4.82s" begin="-2.21s" repeatCount="indefinite"/>
+<text x="228.0" y="0" font-size="12.5" text-anchor="middle" fill="#15998D" opacity="0.15">1<animate attributeName="opacity" values="0.15;0.06;0.15" dur="0.93s" repeatCount="indefinite"/></text>
+<text x="228.0" y="15" font-size="12.5" text-anchor="middle" fill="#18AC9E" opacity="0.31">E<animate attributeName="opacity" values="0.30;0.12;0.30" dur="1.11s" repeatCount="indefinite"/></text>
+<text x="228.0" y="30" font-size="12.5" text-anchor="middle" fill="#1BBFB0" opacity="0.46">{<animate attributeName="opacity" values="0.45;0.17;0.45" dur="0.71s" repeatCount="indefinite"/></text>
+<text x="228.0" y="45" font-size="12.5" text-anchor="middle" fill="#1ED3C2" opacity="0.61">A<animate attributeName="opacity" values="0.60;0.23;0.60" dur="1.57s" repeatCount="indefinite"/></text>
+<text x="228.0" y="60" font-size="12.5" text-anchor="middle" fill="#27E0CF" opacity="0.77">/<animate attributeName="opacity" values="0.75;0.29;0.75" dur="0.68s" repeatCount="indefinite"/></text>
+<text x="228.0" y="75" font-size="12.5" text-anchor="middle" fill="#E6FFF2" opacity="0.92">D<animate attributeName="opacity" values="0.90;0.35;0.90" dur="0.64s" repeatCount="indefinite"/></text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0,-105" to="0,365" dur="4.54s" begin="-0.59s" repeatCount="indefinite"/>
+<text x="252.0" y="0" font-size="12.5" text-anchor="middle" fill="#15965A" opacity="0.13">C<animate attributeName="opacity" values="0.13;0.05;0.13" dur="1.01s" repeatCount="indefinite"/></text>
+<text x="252.0" y="15" font-size="12.5" text-anchor="middle" fill="#17A764" opacity="0.26">ヤ<animate attributeName="opacity" values="0.26;0.10;0.26" dur="1.17s" repeatCount="indefinite"/></text>
+<text x="252.0" y="30" font-size="12.5" text-anchor="middle" fill="#1AB76E" opacity="0.39">X<animate attributeName="opacity" values="0.39;0.15;0.39" dur="0.69s" repeatCount="indefinite"/></text>
+<text x="252.0" y="45" font-size="12.5" text-anchor="middle" fill="#1CC878" opacity="0.53">]<animate attributeName="opacity" values="0.51;0.20;0.51" dur="1.40s" repeatCount="indefinite"/></text>
+<text x="252.0" y="60" font-size="12.5" text-anchor="middle" fill="#1ED882" opacity="0.66">#<animate attributeName="opacity" values="0.64;0.25;0.64" dur="1.03s" repeatCount="indefinite"/></text>
+<text x="252.0" y="75" font-size="12.5" text-anchor="middle" fill="#2AE08C" opacity="0.79">{<animate attributeName="opacity" values="0.77;0.30;0.77" dur="0.87s" repeatCount="indefinite"/></text>
+<text x="252.0" y="90" font-size="12.5" text-anchor="middle" fill="#E6FFF2" opacity="0.92">1<animate attributeName="opacity" values="0.90;0.35;0.90" dur="1.23s" repeatCount="indefinite"/></text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0,-120" to="0,380" dur="3.75s" begin="-3.21s" repeatCount="indefinite"/>
+<text x="276.0" y="0" font-size="12.5" text-anchor="middle" fill="#15941D" opacity="0.12">|<animate attributeName="opacity" values="0.11;0.04;0.11" dur="1.05s" repeatCount="indefinite"/></text>
+<text x="276.0" y="15" font-size="12.5" text-anchor="middle" fill="#17A220" opacity="0.23">Y<animate attributeName="opacity" values="0.23;0.09;0.23" dur="1.59s" repeatCount="indefinite"/></text>
+<text x="276.0" y="30" font-size="12.5" text-anchor="middle" fill="#19B123" opacity="0.35">カ<animate attributeName="opacity" values="0.34;0.13;0.34" dur="1.53s" repeatCount="indefinite"/></text>
+<text x="276.0" y="45" font-size="12.5" text-anchor="middle" fill="#1BBF26" opacity="0.46">D<animate attributeName="opacity" values="0.45;0.17;0.45" dur="1.22s" repeatCount="indefinite"/></text>
+<text x="276.0" y="60" font-size="12.5" text-anchor="middle" fill="#1DCE29" opacity="0.58">[<animate attributeName="opacity" values="0.56;0.22;0.56" dur="1.13s" repeatCount="indefinite"/></text>
+<text x="276.0" y="75" font-size="12.5" text-anchor="middle" fill="#1FDC2C" opacity="0.69">B<animate attributeName="opacity" values="0.68;0.26;0.68" dur="1.54s" repeatCount="indefinite"/></text>
+<text x="276.0" y="90" font-size="12.5" text-anchor="middle" fill="#2CE038" opacity="0.81">*<animate attributeName="opacity" values="0.79;0.31;0.79" dur="0.86s" repeatCount="indefinite"/></text>
+<text x="276.0" y="105" font-size="12.5" text-anchor="middle" fill="#E6FFF2" opacity="0.92">#<animate attributeName="opacity" values="0.90;0.35;0.90" dur="0.80s" repeatCount="indefinite"/></text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0,-120" to="0,380" dur="6.04s" begin="-3.21s" repeatCount="indefinite"/>
+<text x="300.0" y="0" font-size="12.5" text-anchor="middle" fill="#159435" opacity="0.12">タ<animate attributeName="opacity" values="0.11;0.04;0.11" dur="1.10s" repeatCount="indefinite"/></text>
+<text x="300.0" y="15" font-size="12.5" text-anchor="middle" fill="#17A23A" opacity="0.23">#<animate attributeName="opacity" values="0.23;0.09;0.23" dur="0.87s" repeatCount="indefinite"/></text>
+<text x="300.0" y="30" font-size="12.5" text-anchor="middle" fill="#19B13F" opacity="0.35">1<animate attributeName="opacity" values="0.34;0.13;0.34" dur="1.59s" repeatCount="indefinite"/></text>
+<text x="300.0" y="45" font-size="12.5" text-anchor="middle" fill="#1BBF44" opacity="0.46">[<animate attributeName="opacity" values="0.45;0.17;0.45" dur="0.62s" repeatCount="indefinite"/></text>
+<text x="300.0" y="60" font-size="12.5" text-anchor="middle" fill="#1DCE4A" opacity="0.58">ヤ<animate attributeName="opacity" values="0.56;0.22;0.56" dur="1.15s" repeatCount="indefinite"/></text>
+<text x="300.0" y="75" font-size="12.5" text-anchor="middle" fill="#1FDC4F" opacity="0.69">$<animate attributeName="opacity" values="0.68;0.26;0.68" dur="1.11s" repeatCount="indefinite"/></text>
+<text x="300.0" y="90" font-size="12.5" text-anchor="middle" fill="#2CE059" opacity="0.81">B<animate attributeName="opacity" values="0.79;0.31;0.79" dur="1.53s" repeatCount="indefinite"/></text>
+<text x="300.0" y="105" font-size="12.5" text-anchor="middle" fill="#E6FFF2" opacity="0.92">/<animate attributeName="opacity" values="0.90;0.35;0.90" dur="1.26s" repeatCount="indefinite"/></text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0,-135" to="0,395" dur="6.16s" begin="-3.36s" repeatCount="indefinite"/>
+<text x="324.0" y="0" font-size="12.5" text-anchor="middle" fill="#147F92" opacity="0.10">ヤ<animate attributeName="opacity" values="0.10;0.04;0.10" dur="0.91s" repeatCount="indefinite"/></text>
+<text x="324.0" y="15" font-size="12.5" text-anchor="middle" fill="#168A9F" opacity="0.20">%<animate attributeName="opacity" values="0.20;0.08;0.20" dur="1.58s" repeatCount="indefinite"/></text>
+<text x="324.0" y="30" font-size="12.5" text-anchor="middle" fill="#1895AC" opacity="0.31">Y<animate attributeName="opacity" values="0.30;0.12;0.30" dur="0.80s" repeatCount="indefinite"/></text>
+<text x="324.0" y="45" font-size="12.5" text-anchor="middle" fill="#1AA1B9" opacity="0.41">=<animate attributeName="opacity" values="0.40;0.16;0.40" dur="1.00s" repeatCount="indefinite"/></text>
+<text x="324.0" y="60" font-size="12.5" text-anchor="middle" fill="#1CACC6" opacity="0.51">Z<animate attributeName="opacity" values="0.50;0.19;0.50" dur="1.58s" repeatCount="indefinite"/></text>
+<text x="324.0" y="75" font-size="12.5" text-anchor="middle" fill="#1EB7D3" opacity="0.61">=<animate attributeName="opacity" values="0.60;0.23;0.60" dur="0.61s" repeatCount="indefinite"/></text>
+<text x="324.0" y="90" font-size="12.5" text-anchor="middle" fill="#20C2DF" opacity="0.72">C<animate attributeName="opacity" values="0.70;0.27;0.70" dur="1.03s" repeatCount="indefinite"/></text>
+<text x="324.0" y="105" font-size="12.5" text-anchor="middle" fill="#2DC5E1" opacity="0.82">]<animate attributeName="opacity" values="0.80;0.31;0.80" dur="0.68s" repeatCount="indefinite"/></text>
+<text x="324.0" y="120" font-size="12.5" text-anchor="middle" fill="#E6FFF2" opacity="0.92">1<animate attributeName="opacity" values="0.90;0.35;0.90" dur="1.47s" repeatCount="indefinite"/></text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0,-120" to="0,380" dur="5.91s" begin="-4.10s" repeatCount="indefinite"/>
+<text x="348.0" y="0" font-size="12.5" text-anchor="middle" fill="#15941A" opacity="0.12">#<animate attributeName="opacity" values="0.11;0.04;0.11" dur="0.76s" repeatCount="indefinite"/></text>
+<text x="348.0" y="15" font-size="12.5" text-anchor="middle" fill="#17A21C" opacity="0.23">タ<animate attributeName="opacity" values="0.23;0.09;0.23" dur="0.60s" repeatCount="indefinite"/></text>
+<text x="348.0" y="30" font-size="12.5" text-anchor="middle" fill="#19B11F" opacity="0.35">0<animate attributeName="opacity" values="0.34;0.13;0.34" dur="1.56s" repeatCount="indefinite"/></text>
+<text x="348.0" y="45" font-size="12.5" text-anchor="middle" fill="#1BBF21" opacity="0.46">X<animate attributeName="opacity" values="0.45;0.17;0.45" dur="0.84s" repeatCount="indefinite"/></text>
+<text x="348.0" y="60" font-size="12.5" text-anchor="middle" fill="#1DCE24" opacity="0.58">F<animate attributeName="opacity" values="0.56;0.22;0.56" dur="0.82s" repeatCount="indefinite"/></text>
+<text x="348.0" y="75" font-size="12.5" text-anchor="middle" fill="#1FDC27" opacity="0.69">#<animate attributeName="opacity" values="0.68;0.26;0.68" dur="0.60s" repeatCount="indefinite"/></text>
+<text x="348.0" y="90" font-size="12.5" text-anchor="middle" fill="#2CE033" opacity="0.81">1<animate attributeName="opacity" values="0.79;0.31;0.79" dur="0.68s" repeatCount="indefinite"/></text>
+<text x="348.0" y="105" font-size="12.5" text-anchor="middle" fill="#E6FFF2" opacity="0.92">D<animate attributeName="opacity" values="0.90;0.35;0.90" dur="1.10s" repeatCount="indefinite"/></text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0,-105" to="0,365" dur="4.44s" begin="-3.45s" repeatCount="indefinite"/>
+<text x="372.0" y="0" font-size="12.5" text-anchor="middle" fill="#159622" opacity="0.13">}<animate attributeName="opacity" values="0.13;0.05;0.13" dur="0.74s" repeatCount="indefinite"/></text>
+<text x="372.0" y="15" font-size="12.5" text-anchor="middle" fill="#17A726" opacity="0.26">[<animate attributeName="opacity" values="0.26;0.10;0.26" dur="0.99s" repeatCount="indefinite"/></text>
+<text x="372.0" y="30" font-size="12.5" text-anchor="middle" fill="#1AB729" opacity="0.39">F<animate attributeName="opacity" values="0.39;0.15;0.39" dur="0.90s" repeatCount="indefinite"/></text>
+<text x="372.0" y="45" font-size="12.5" text-anchor="middle" fill="#1CC82D" opacity="0.53">A<animate attributeName="opacity" values="0.51;0.20;0.51" dur="0.68s" repeatCount="indefinite"/></text>
+<text x="372.0" y="60" font-size="12.5" text-anchor="middle" fill="#1ED831" opacity="0.66">ラ<animate attributeName="opacity" values="0.64;0.25;0.64" dur="1.45s" repeatCount="indefinite"/></text>
+<text x="372.0" y="75" font-size="12.5" text-anchor="middle" fill="#2AE03C" opacity="0.79">+<animate attributeName="opacity" values="0.77;0.30;0.77" dur="1.26s" repeatCount="indefinite"/></text>
+<text x="372.0" y="90" font-size="12.5" text-anchor="middle" fill="#E6FFF2" opacity="0.92">1<animate attributeName="opacity" values="0.90;0.35;0.90" dur="1.36s" repeatCount="indefinite"/></text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0,-135" to="0,395" dur="4.03s" begin="-2.92s" repeatCount="indefinite"/>
+<text x="396.0" y="0" font-size="12.5" text-anchor="middle" fill="#14927D" opacity="0.10">[<animate attributeName="opacity" values="0.10;0.04;0.10" dur="1.42s" repeatCount="indefinite"/></text>
+<text x="396.0" y="15" font-size="12.5" text-anchor="middle" fill="#169F88" opacity="0.20">ヤ<animate attributeName="opacity" values="0.20;0.08;0.20" dur="1.23s" repeatCount="indefinite"/></text>
+<text x="396.0" y="30" font-size="12.5" text-anchor="middle" fill="#18AC93" opacity="0.31">ヤ<animate attributeName="opacity" values="0.30;0.12;0.30" dur="0.74s" repeatCount="indefinite"/></text>
+<text x="396.0" y="45" font-size="12.5" text-anchor="middle" fill="#1AB99E" opacity="0.41">ラ<animate attributeName="opacity" values="0.40;0.16;0.40" dur="1.35s" repeatCount="indefinite"/></text>
+<text x="396.0" y="60" font-size="12.5" text-anchor="middle" fill="#1CC6A9" opacity="0.51">1<animate attributeName="opacity" values="0.50;0.19;0.50" dur="1.43s" repeatCount="indefinite"/></text>
+<text x="396.0" y="75" font-size="12.5" text-anchor="middle" fill="#1ED3B4" opacity="0.61">A<animate attributeName="opacity" values="0.60;0.23;0.60" dur="0.69s" repeatCount="indefinite"/></text>
+<text x="396.0" y="90" font-size="12.5" text-anchor="middle" fill="#20DFBE" opacity="0.72">[<animate attributeName="opacity" values="0.70;0.27;0.70" dur="0.73s" repeatCount="indefinite"/></text>
+<text x="396.0" y="105" font-size="12.5" text-anchor="middle" fill="#2DE1C2" opacity="0.82">0<animate attributeName="opacity" values="0.80;0.31;0.80" dur="1.56s" repeatCount="indefinite"/></text>
+<text x="396.0" y="120" font-size="12.5" text-anchor="middle" fill="#E6FFF2" opacity="0.92">1<animate attributeName="opacity" values="0.90;0.35;0.90" dur="1.44s" repeatCount="indefinite"/></text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0,-150" to="0,410" dur="3.61s" begin="-0.07s" repeatCount="indefinite"/>
+<text x="420.0" y="0" font-size="12.5" text-anchor="middle" fill="#149169" opacity="0.09">B<animate attributeName="opacity" values="0.09;0.03;0.09" dur="1.09s" repeatCount="indefinite"/></text>
+<text x="420.0" y="15" font-size="12.5" text-anchor="middle" fill="#169D72" opacity="0.18">0<animate attributeName="opacity" values="0.18;0.07;0.18" dur="1.06s" repeatCount="indefinite"/></text>
+<text x="420.0" y="30" font-size="12.5" text-anchor="middle" fill="#18A87A" opacity="0.28">{<animate attributeName="opacity" values="0.27;0.10;0.27" dur="1.35s" repeatCount="indefinite"/></text>
+<text x="420.0" y="45" font-size="12.5" text-anchor="middle" fill="#19B483" opacity="0.37">ヤ<animate attributeName="opacity" values="0.36;0.14;0.36" dur="1.50s" repeatCount="indefinite"/></text>
+<text x="420.0" y="60" font-size="12.5" text-anchor="middle" fill="#1BBF8B" opacity="0.46">}<animate attributeName="opacity" values="0.45;0.17;0.45" dur="1.26s" repeatCount="indefinite"/></text>
+<text x="420.0" y="75" font-size="12.5" text-anchor="middle" fill="#1DCB93" opacity="0.55">{<animate attributeName="opacity" values="0.54;0.21;0.54" dur="1.35s" repeatCount="indefinite"/></text>
+<text x="420.0" y="90" font-size="12.5" text-anchor="middle" fill="#1ED79C" opacity="0.64">ハ<animate attributeName="opacity" values="0.63;0.24;0.63" dur="0.85s" repeatCount="indefinite"/></text>
+<text x="420.0" y="105" font-size="12.5" text-anchor="middle" fill="#23DFA3" opacity="0.74">{<animate attributeName="opacity" values="0.72;0.28;0.72" dur="1.45s" repeatCount="indefinite"/></text>
+<text x="420.0" y="120" font-size="12.5" text-anchor="middle" fill="#2FE1A8" opacity="0.83">B<animate attributeName="opacity" values="0.81;0.32;0.81" dur="1.33s" repeatCount="indefinite"/></text>
+<text x="420.0" y="135" font-size="12.5" text-anchor="middle" fill="#E6FFF2" opacity="0.92">%<animate attributeName="opacity" values="0.90;0.35;0.90" dur="0.83s" repeatCount="indefinite"/></text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0,-135" to="0,395" dur="5.47s" begin="-2.09s" repeatCount="indefinite"/>
+<text x="444.0" y="0" font-size="12.5" text-anchor="middle" fill="#149261" opacity="0.10">E<animate attributeName="opacity" values="0.10;0.04;0.10" dur="1.37s" repeatCount="indefinite"/></text>
+<text x="444.0" y="15" font-size="12.5" text-anchor="middle" fill="#169F6A" opacity="0.20">$<animate attributeName="opacity" values="0.20;0.08;0.20" dur="0.68s" repeatCount="indefinite"/></text>
+<text x="444.0" y="30" font-size="12.5" text-anchor="middle" fill="#18AC73" opacity="0.31">+<animate attributeName="opacity" values="0.30;0.12;0.30" dur="0.93s" repeatCount="indefinite"/></text>
+<text x="444.0" y="45" font-size="12.5" text-anchor="middle" fill="#1AB97B" opacity="0.41">F<animate attributeName="opacity" values="0.40;0.16;0.40" dur="1.22s" repeatCount="indefinite"/></text>
+<text x="444.0" y="60" font-size="12.5" text-anchor="middle" fill="#1CC684" opacity="0.51">=<animate attributeName="opacity" values="0.50;0.19;0.50" dur="0.61s" repeatCount="indefinite"/></text>
+<text x="444.0" y="75" font-size="12.5" text-anchor="middle" fill="#1ED38D" opacity="0.61">]<animate attributeName="opacity" values="0.60;0.23;0.60" dur="1.09s" repeatCount="indefinite"/></text>
+<text x="444.0" y="90" font-size="12.5" text-anchor="middle" fill="#20DF95" opacity="0.72">/<animate attributeName="opacity" values="0.70;0.27;0.70" dur="1.29s" repeatCount="indefinite"/></text>
+<text x="444.0" y="105" font-size="12.5" text-anchor="middle" fill="#2DE19B" opacity="0.82">マ<animate attributeName="opacity" values="0.80;0.31;0.80" dur="0.89s" repeatCount="indefinite"/></text>
+<text x="444.0" y="120" font-size="12.5" text-anchor="middle" fill="#E6FFF2" opacity="0.92">ラ<animate attributeName="opacity" values="0.90;0.35;0.90" dur="0.89s" repeatCount="indefinite"/></text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0,-135" to="0,395" dur="5.36s" begin="-0.64s" repeatCount="indefinite"/>
+<text x="468.0" y="0" font-size="12.5" text-anchor="middle" fill="#147E92" opacity="0.10">$<animate attributeName="opacity" values="0.10;0.04;0.10" dur="0.91s" repeatCount="indefinite"/></text>
+<text x="468.0" y="15" font-size="12.5" text-anchor="middle" fill="#16899F" opacity="0.20">}<animate attributeName="opacity" values="0.20;0.08;0.20" dur="1.54s" repeatCount="indefinite"/></text>
+<text x="468.0" y="30" font-size="12.5" text-anchor="middle" fill="#1894AC" opacity="0.31">1<animate attributeName="opacity" values="0.30;0.12;0.30" dur="0.89s" repeatCount="indefinite"/></text>
+<text x="468.0" y="45" font-size="12.5" text-anchor="middle" fill="#1AA0B9" opacity="0.41">{<animate attributeName="opacity" values="0.40;0.16;0.40" dur="1.42s" repeatCount="indefinite"/></text>
+<text x="468.0" y="60" font-size="12.5" text-anchor="middle" fill="#1CABC6" opacity="0.51">タ<animate attributeName="opacity" values="0.50;0.19;0.50" dur="1.59s" repeatCount="indefinite"/></text>
+<text x="468.0" y="75" font-size="12.5" text-anchor="middle" fill="#1EB6D3" opacity="0.61">1<animate attributeName="opacity" values="0.60;0.23;0.60" dur="0.81s" repeatCount="indefinite"/></text>
+<text x="468.0" y="90" font-size="12.5" text-anchor="middle" fill="#20C0DF" opacity="0.72">%<animate attributeName="opacity" values="0.70;0.27;0.70" dur="0.67s" repeatCount="indefinite"/></text>
+<text x="468.0" y="105" font-size="12.5" text-anchor="middle" fill="#2DC4E1" opacity="0.82">}<animate attributeName="opacity" values="0.80;0.31;0.80" dur="0.74s" repeatCount="indefinite"/></text>
+<text x="468.0" y="120" font-size="12.5" text-anchor="middle" fill="#E6FFF2" opacity="0.92">ラ<animate attributeName="opacity" values="0.90;0.35;0.90" dur="0.86s" repeatCount="indefinite"/></text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0,-120" to="0,380" dur="3.96s" begin="-3.25s" repeatCount="indefinite"/>
+<text x="492.0" y="0" font-size="12.5" text-anchor="middle" fill="#159468" opacity="0.12">|<animate attributeName="opacity" values="0.11;0.04;0.11" dur="1.30s" repeatCount="indefinite"/></text>
+<text x="492.0" y="15" font-size="12.5" text-anchor="middle" fill="#17A272" opacity="0.23">A<animate attributeName="opacity" values="0.23;0.09;0.23" dur="1.10s" repeatCount="indefinite"/></text>
+<text x="492.0" y="30" font-size="12.5" text-anchor="middle" fill="#19B17C" opacity="0.35">マ<animate attributeName="opacity" values="0.34;0.13;0.34" dur="0.99s" repeatCount="indefinite"/></text>
+<text x="492.0" y="45" font-size="12.5" text-anchor="middle" fill="#1BBF86" opacity="0.46">*<animate attributeName="opacity" values="0.45;0.17;0.45" dur="0.60s" repeatCount="indefinite"/></text>
+<text x="492.0" y="60" font-size="12.5" text-anchor="middle" fill="#1DCE90" opacity="0.58">マ<animate attributeName="opacity" values="0.56;0.22;0.56" dur="1.28s" repeatCount="indefinite"/></text>
+<text x="492.0" y="75" font-size="12.5" text-anchor="middle" fill="#1FDC9A" opacity="0.69">ア<animate attributeName="opacity" values="0.68;0.26;0.68" dur="0.90s" repeatCount="indefinite"/></text>
+<text x="492.0" y="90" font-size="12.5" text-anchor="middle" fill="#2CE0A1" opacity="0.81">+<animate attributeName="opacity" values="0.79;0.31;0.79" dur="1.02s" repeatCount="indefinite"/></text>
+<text x="492.0" y="105" font-size="12.5" text-anchor="middle" fill="#E6FFF2" opacity="0.92">1<animate attributeName="opacity" values="0.90;0.35;0.90" dur="0.92s" repeatCount="indefinite"/></text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0,-120" to="0,380" dur="3.41s" begin="-2.56s" repeatCount="indefinite"/>
+<text x="516.0" y="0" font-size="12.5" text-anchor="middle" fill="#158994" opacity="0.12">|<animate attributeName="opacity" values="0.11;0.04;0.11" dur="1.54s" repeatCount="indefinite"/></text>
+<text x="516.0" y="15" font-size="12.5" text-anchor="middle" fill="#1796A2" opacity="0.23">$<animate attributeName="opacity" values="0.23;0.09;0.23" dur="1.31s" repeatCount="indefinite"/></text>
+<text x="516.0" y="30" font-size="12.5" text-anchor="middle" fill="#19A4B1" opacity="0.35">E<animate attributeName="opacity" values="0.34;0.13;0.34" dur="0.85s" repeatCount="indefinite"/></text>
+<text x="516.0" y="45" font-size="12.5" text-anchor="middle" fill="#1BB1BF" opacity="0.46">{<animate attributeName="opacity" values="0.45;0.17;0.45" dur="0.99s" repeatCount="indefinite"/></text>
+<text x="516.0" y="60" font-size="12.5" text-anchor="middle" fill="#1DBECE" opacity="0.58">{<animate attributeName="opacity" values="0.56;0.22;0.56" dur="0.96s" repeatCount="indefinite"/></text>
+<text x="516.0" y="75" font-size="12.5" text-anchor="middle" fill="#1FCCDC" opacity="0.69">サ<animate attributeName="opacity" values="0.68;0.26;0.68" dur="1.36s" repeatCount="indefinite"/></text>
+<text x="516.0" y="90" font-size="12.5" text-anchor="middle" fill="#2CD1E0" opacity="0.81">]<animate attributeName="opacity" values="0.79;0.31;0.79" dur="0.88s" repeatCount="indefinite"/></text>
+<text x="516.0" y="105" font-size="12.5" text-anchor="middle" fill="#E6FFF2" opacity="0.92">]<animate attributeName="opacity" values="0.90;0.35;0.90" dur="1.43s" repeatCount="indefinite"/></text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0,-120" to="0,380" dur="6.07s" begin="-0.90s" repeatCount="indefinite"/>
+<text x="540.0" y="0" font-size="12.5" text-anchor="middle" fill="#157394" opacity="0.12">サ<animate attributeName="opacity" values="0.11;0.04;0.11" dur="1.11s" repeatCount="indefinite"/></text>
+<text x="540.0" y="15" font-size="12.5" text-anchor="middle" fill="#177EA2" opacity="0.23">$<animate attributeName="opacity" values="0.23;0.09;0.23" dur="1.37s" repeatCount="indefinite"/></text>
+<text x="540.0" y="30" font-size="12.5" text-anchor="middle" fill="#1989B1" opacity="0.35">サ<animate attributeName="opacity" values="0.34;0.13;0.34" dur="1.48s" repeatCount="indefinite"/></text>
+<text x="540.0" y="45" font-size="12.5" text-anchor="middle" fill="#1B94BF" opacity="0.46">ア<animate attributeName="opacity" values="0.45;0.17;0.45" dur="1.51s" repeatCount="indefinite"/></text>
+<text x="540.0" y="60" font-size="12.5" text-anchor="middle" fill="#1DA0CE" opacity="0.58">%<animate attributeName="opacity" values="0.56;0.22;0.56" dur="1.32s" repeatCount="indefinite"/></text>
+<text x="540.0" y="75" font-size="12.5" text-anchor="middle" fill="#1FABDC" opacity="0.69">]<animate attributeName="opacity" values="0.68;0.26;0.68" dur="1.53s" repeatCount="indefinite"/></text>
+<text x="540.0" y="90" font-size="12.5" text-anchor="middle" fill="#2CB1E0" opacity="0.81">カ<animate attributeName="opacity" values="0.79;0.31;0.79" dur="1.05s" repeatCount="indefinite"/></text>
+<text x="540.0" y="105" font-size="12.5" text-anchor="middle" fill="#E6FFF2" opacity="0.92">=<animate attributeName="opacity" values="0.90;0.35;0.90" dur="1.24s" repeatCount="indefinite"/></text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0,-120" to="0,380" dur="5.44s" begin="-4.96s" repeatCount="indefinite"/>
+<text x="564.0" y="0" font-size="12.5" text-anchor="middle" fill="#15946F" opacity="0.12">*<animate attributeName="opacity" values="0.11;0.04;0.11" dur="1.07s" repeatCount="indefinite"/></text>
+<text x="564.0" y="15" font-size="12.5" text-anchor="middle" fill="#17A279" opacity="0.23">Y<animate attributeName="opacity" values="0.23;0.09;0.23" dur="0.88s" repeatCount="indefinite"/></text>
+<text x="564.0" y="30" font-size="12.5" text-anchor="middle" fill="#19B184" opacity="0.35">C<animate attributeName="opacity" values="0.34;0.13;0.34" dur="1.34s" repeatCount="indefinite"/></text>
+<text x="564.0" y="45" font-size="12.5" text-anchor="middle" fill="#1BBF8F" opacity="0.46">C<animate attributeName="opacity" values="0.45;0.17;0.45" dur="1.01s" repeatCount="indefinite"/></text>
+<text x="564.0" y="60" font-size="12.5" text-anchor="middle" fill="#1DCE9A" opacity="0.58">B<animate attributeName="opacity" values="0.56;0.22;0.56" dur="0.90s" repeatCount="indefinite"/></text>
+<text x="564.0" y="75" font-size="12.5" text-anchor="middle" fill="#1FDCA5" opacity="0.69">ア<animate attributeName="opacity" values="0.68;0.26;0.68" dur="0.72s" repeatCount="indefinite"/></text>
+<text x="564.0" y="90" font-size="12.5" text-anchor="middle" fill="#2CE0AB" opacity="0.81">*<animate attributeName="opacity" values="0.79;0.31;0.79" dur="0.68s" repeatCount="indefinite"/></text>
+<text x="564.0" y="105" font-size="12.5" text-anchor="middle" fill="#E6FFF2" opacity="0.92">ヤ<animate attributeName="opacity" values="0.90;0.35;0.90" dur="1.51s" repeatCount="indefinite"/></text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0,-135" to="0,395" dur="5.71s" begin="-2.59s" repeatCount="indefinite"/>
+<text x="588.0" y="0" font-size="12.5" text-anchor="middle" fill="#149249" opacity="0.10">タ<animate attributeName="opacity" values="0.10;0.04;0.10" dur="1.03s" repeatCount="indefinite"/></text>
+<text x="588.0" y="15" font-size="12.5" text-anchor="middle" fill="#169F50" opacity="0.20">$<animate attributeName="opacity" values="0.20;0.08;0.20" dur="0.84s" repeatCount="indefinite"/></text>
+<text x="588.0" y="30" font-size="12.5" text-anchor="middle" fill="#18AC56" opacity="0.31">#<animate attributeName="opacity" values="0.30;0.12;0.30" dur="0.94s" repeatCount="indefinite"/></text>
+<text x="588.0" y="45" font-size="12.5" text-anchor="middle" fill="#1AB95D" opacity="0.41">}<animate attributeName="opacity" values="0.40;0.16;0.40" dur="0.92s" repeatCount="indefinite"/></text>
+<text x="588.0" y="60" font-size="12.5" text-anchor="middle" fill="#1CC663" opacity="0.51">0<animate attributeName="opacity" values="0.50;0.19;0.50" dur="0.86s" repeatCount="indefinite"/></text>
+<text x="588.0" y="75" font-size="12.5" text-anchor="middle" fill="#1ED36A" opacity="0.61">$<animate attributeName="opacity" values="0.60;0.23;0.60" dur="1.49s" repeatCount="indefinite"/></text>
+<text x="588.0" y="90" font-size="12.5" text-anchor="middle" fill="#20DF70" opacity="0.72">カ<animate attributeName="opacity" values="0.70;0.27;0.70" dur="0.98s" repeatCount="indefinite"/></text>
+<text x="588.0" y="105" font-size="12.5" text-anchor="middle" fill="#2DE178" opacity="0.82">ラ<animate attributeName="opacity" values="0.80;0.31;0.80" dur="0.81s" repeatCount="indefinite"/></text>
+<text x="588.0" y="120" font-size="12.5" text-anchor="middle" fill="#E6FFF2" opacity="0.92">D<animate attributeName="opacity" values="0.90;0.35;0.90" dur="0.94s" repeatCount="indefinite"/></text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0,-90" to="0,350" dur="5.49s" begin="-3.15s" repeatCount="indefinite"/>
+<text x="612.0" y="0" font-size="12.5" text-anchor="middle" fill="#159951" opacity="0.15">ヤ<animate attributeName="opacity" values="0.15;0.06;0.15" dur="1.13s" repeatCount="indefinite"/></text>
+<text x="612.0" y="15" font-size="12.5" text-anchor="middle" fill="#18AC5C" opacity="0.31">%<animate attributeName="opacity" values="0.30;0.12;0.30" dur="0.69s" repeatCount="indefinite"/></text>
+<text x="612.0" y="30" font-size="12.5" text-anchor="middle" fill="#1BBF66" opacity="0.46">B<animate attributeName="opacity" values="0.45;0.17;0.45" dur="0.98s" repeatCount="indefinite"/></text>
+<text x="612.0" y="45" font-size="12.5" text-anchor="middle" fill="#1ED370" opacity="0.61">タ<animate attributeName="opacity" values="0.60;0.23;0.60" dur="1.03s" repeatCount="indefinite"/></text>
+<text x="612.0" y="60" font-size="12.5" text-anchor="middle" fill="#27E07B" opacity="0.77">F<animate attributeName="opacity" values="0.75;0.29;0.75" dur="1.45s" repeatCount="indefinite"/></text>
+<text x="612.0" y="75" font-size="12.5" text-anchor="middle" fill="#E6FFF2" opacity="0.92">1<animate attributeName="opacity" values="0.90;0.35;0.90" dur="0.73s" repeatCount="indefinite"/></text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0,-135" to="0,395" dur="6.38s" begin="-5.71s" repeatCount="indefinite"/>
+<text x="636.0" y="0" font-size="12.5" text-anchor="middle" fill="#149261" opacity="0.10">マ<animate attributeName="opacity" values="0.10;0.04;0.10" dur="0.60s" repeatCount="indefinite"/></text>
+<text x="636.0" y="15" font-size="12.5" text-anchor="middle" fill="#169F69" opacity="0.20">ア<animate attributeName="opacity" values="0.20;0.08;0.20" dur="1.53s" repeatCount="indefinite"/></text>
+<text x="636.0" y="30" font-size="12.5" text-anchor="middle" fill="#18AC72" opacity="0.31">ラ<animate attributeName="opacity" values="0.30;0.12;0.30" dur="1.46s" repeatCount="indefinite"/></text>
+<text x="636.0" y="45" font-size="12.5" text-anchor="middle" fill="#1AB97A" opacity="0.41">タ<animate attributeName="opacity" values="0.40;0.16;0.40" dur="0.85s" repeatCount="indefinite"/></text>
+<text x="636.0" y="60" font-size="12.5" text-anchor="middle" fill="#1CC683" opacity="0.51">/<animate attributeName="opacity" values="0.50;0.19;0.50" dur="0.82s" repeatCount="indefinite"/></text>
+<text x="636.0" y="75" font-size="12.5" text-anchor="middle" fill="#1ED38B" opacity="0.61">+<animate attributeName="opacity" values="0.60;0.23;0.60" dur="1.12s" repeatCount="indefinite"/></text>
+<text x="636.0" y="90" font-size="12.5" text-anchor="middle" fill="#20DF94" opacity="0.72">/<animate attributeName="opacity" values="0.70;0.27;0.70" dur="1.54s" repeatCount="indefinite"/></text>
+<text x="636.0" y="105" font-size="12.5" text-anchor="middle" fill="#2DE19A" opacity="0.82">ナ<animate attributeName="opacity" values="0.80;0.31;0.80" dur="0.69s" repeatCount="indefinite"/></text>
+<text x="636.0" y="120" font-size="12.5" text-anchor="middle" fill="#E6FFF2" opacity="0.92">[<animate attributeName="opacity" values="0.90;0.35;0.90" dur="0.60s" repeatCount="indefinite"/></text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0,-105" to="0,365" dur="4.38s" begin="-4.03s" repeatCount="indefinite"/>
+<text x="660.0" y="0" font-size="12.5" text-anchor="middle" fill="#159680" opacity="0.13">F<animate attributeName="opacity" values="0.13;0.05;0.13" dur="1.56s" repeatCount="indefinite"/></text>
+<text x="660.0" y="15" font-size="12.5" text-anchor="middle" fill="#17A78E" opacity="0.26">C<animate attributeName="opacity" values="0.26;0.10;0.26" dur="1.13s" repeatCount="indefinite"/></text>
+<text x="660.0" y="30" font-size="12.5" text-anchor="middle" fill="#1AB79D" opacity="0.39">サ<animate attributeName="opacity" values="0.39;0.15;0.39" dur="1.30s" repeatCount="indefinite"/></text>
+<text x="660.0" y="45" font-size="12.5" text-anchor="middle" fill="#1CC8AB" opacity="0.53">|<animate attributeName="opacity" values="0.51;0.20;0.51" dur="0.70s" repeatCount="indefinite"/></text>
+<text x="660.0" y="60" font-size="12.5" text-anchor="middle" fill="#1ED8B9" opacity="0.66">F<animate attributeName="opacity" values="0.64;0.25;0.64" dur="1.12s" repeatCount="indefinite"/></text>
+<text x="660.0" y="75" font-size="12.5" text-anchor="middle" fill="#2AE0C1" opacity="0.79">$<animate attributeName="opacity" values="0.77;0.30;0.77" dur="0.99s" repeatCount="indefinite"/></text>
+<text x="660.0" y="90" font-size="12.5" text-anchor="middle" fill="#E6FFF2" opacity="0.92">A<animate attributeName="opacity" values="0.90;0.35;0.90" dur="1.39s" repeatCount="indefinite"/></text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0,-90" to="0,350" dur="3.44s" begin="-1.04s" repeatCount="indefinite"/>
+<text x="684.0" y="0" font-size="12.5" text-anchor="middle" fill="#159963" opacity="0.15">X<animate attributeName="opacity" values="0.15;0.06;0.15" dur="1.24s" repeatCount="indefinite"/></text>
+<text x="684.0" y="15" font-size="12.5" text-anchor="middle" fill="#18AC6F" opacity="0.31">B<animate attributeName="opacity" values="0.30;0.12;0.30" dur="1.08s" repeatCount="indefinite"/></text>
+<text x="684.0" y="30" font-size="12.5" text-anchor="middle" fill="#1BBF7C" opacity="0.46">B<animate attributeName="opacity" values="0.45;0.17;0.45" dur="1.15s" repeatCount="indefinite"/></text>
+<text x="684.0" y="45" font-size="12.5" text-anchor="middle" fill="#1ED388" opacity="0.61">1<animate attributeName="opacity" values="0.60;0.23;0.60" dur="1.56s" repeatCount="indefinite"/></text>
+<text x="684.0" y="60" font-size="12.5" text-anchor="middle" fill="#27E094" opacity="0.77">F<animate attributeName="opacity" values="0.75;0.29;0.75" dur="0.66s" repeatCount="indefinite"/></text>
+<text x="684.0" y="75" font-size="12.5" text-anchor="middle" fill="#E6FFF2" opacity="0.92">$<animate attributeName="opacity" values="0.90;0.35;0.90" dur="1.10s" repeatCount="indefinite"/></text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" from="0,-135" to="0,395" dur="3.74s" begin="-0.85s" repeatCount="indefinite"/>
+<text x="708.0" y="0" font-size="12.5" text-anchor="middle" fill="#149258" opacity="0.10">0<animate attributeName="opacity" values="0.10;0.04;0.10" dur="0.83s" repeatCount="indefinite"/></text>
+<text x="708.0" y="15" font-size="12.5" text-anchor="middle" fill="#169F60" opacity="0.20">[<animate attributeName="opacity" values="0.20;0.08;0.20" dur="1.30s" repeatCount="indefinite"/></text>
+<text x="708.0" y="30" font-size="12.5" text-anchor="middle" fill="#18AC68" opacity="0.31">カ<animate attributeName="opacity" values="0.30;0.12;0.30" dur="0.96s" repeatCount="indefinite"/></text>
+<text x="708.0" y="45" font-size="12.5" text-anchor="middle" fill="#1AB970" opacity="0.41">ア<animate attributeName="opacity" values="0.40;0.16;0.40" dur="0.80s" repeatCount="indefinite"/></text>
+<text x="708.0" y="60" font-size="12.5" text-anchor="middle" fill="#1CC678" opacity="0.51">E<animate attributeName="opacity" values="0.50;0.19;0.50" dur="1.34s" repeatCount="indefinite"/></text>
+<text x="708.0" y="75" font-size="12.5" text-anchor="middle" fill="#1ED37F" opacity="0.61">ヤ<animate attributeName="opacity" values="0.60;0.23;0.60" dur="0.67s" repeatCount="indefinite"/></text>
+<text x="708.0" y="90" font-size="12.5" text-anchor="middle" fill="#20DF87" opacity="0.72">マ<animate attributeName="opacity" values="0.70;0.27;0.70" dur="1.57s" repeatCount="indefinite"/></text>
+<text x="708.0" y="105" font-size="12.5" text-anchor="middle" fill="#2DE18E" opacity="0.82">F<animate attributeName="opacity" values="0.80;0.31;0.80" dur="1.37s" repeatCount="indefinite"/></text>
+<text x="708.0" y="120" font-size="12.5" text-anchor="middle" fill="#E6FFF2" opacity="0.92">$<animate attributeName="opacity" values="0.90;0.35;0.90" dur="0.83s" repeatCount="indefinite"/></text>
+</g>
+<rect width="720" height="260" fill="url(#fade)"/>
+</svg>

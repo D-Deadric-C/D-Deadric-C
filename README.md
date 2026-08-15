@@ -41,12 +41,14 @@
 </div>
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1400&pause=60000&color=F0F6FC&center=true&vCenter=true&repeat=false&width=300&height=38&lines=%2F%2F+STACK" alt="" />
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1400&pause=60000&color=F0F6FC&center=true&vCenter=true&repeat=false&width=300&height=38&lines=%2F%2F+STACK" alt="" />
+<div align="center">
+  <img width="52%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/stack.svg" alt="" />
+</div>
 
-<img width="52%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/stack.svg" alt="" />
-
-<br />
+<div align="center">
 
 <table>
   <tr>
@@ -86,11 +88,11 @@
 </div>
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1400&pause=60000&color=F0F6FC&center=true&vCenter=true&repeat=false&width=300&height=38&lines=%2F%2F+WORK" alt="" />
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1400&pause=60000&color=F0F6FC&center=true&vCenter=true&repeat=false&width=300&height=38&lines=%2F%2F+WORK" alt="" />
-
-<img width="82%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/pipeline.svg" alt="" />
-
+<div align="center">
+  <img width="82%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/pipeline.svg" alt="" />
 </div>
 
 <table align="center" width="100%">
@@ -143,15 +145,15 @@
 </div>
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1400&pause=60000&color=F0F6FC&center=true&vCenter=true&repeat=false&width=300&height=38&lines=%2F%2F+DEPTH" alt="" />
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1400&pause=60000&color=F0F6FC&center=true&vCenter=true&repeat=false&width=300&height=38&lines=%2F%2F+DEPTH" alt="" />
+<div align="center">
+  <img width="88%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/profile-3d-contrib/profile-mono.svg" alt="" />
+</div>
 
-<img width="88%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/profile-3d-contrib/profile-mono.svg" alt="" />
-
-<br />
-
-<img width="200" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/cube.svg" alt="" />
-
+<div align="center">
+  <img width="200" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/cube.svg" alt="" />
 </div>
 
 <br />
@@ -190,12 +192,14 @@ YAML         17 mins               █▒░░░░░░░░░░░░░
 </div>
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1400&pause=60000&color=F0F6FC&center=true&vCenter=true&repeat=false&width=300&height=38&lines=%2F%2F+ACTIVITY" alt="" />
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1400&pause=60000&color=F0F6FC&center=true&vCenter=true&repeat=false&width=300&height=38&lines=%2F%2F+ACTIVITY" alt="" />
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=D-Deadric-C&show_icons=true&hide_border=true&bg_color=00000000&title_color=F0F6FC&text_color=8B949E&icon_color=3FB950&include_all_commits=true&count_private=true&hide_title=true&rank_icon=github" alt="" />
+</div>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=D-Deadric-C&show_icons=true&hide_border=true&bg_color=00000000&title_color=F0F6FC&text_color=8B949E&icon_color=3FB950&include_all_commits=true&count_private=true&hide_title=true&rank_icon=github" alt="" />
-
-<br /><br />
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/output/github-contribution-grid-snake-dark.svg" />

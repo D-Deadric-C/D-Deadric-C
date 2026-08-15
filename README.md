@@ -1,15 +1,17 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0D1117,40:1C2128,70:30363D,100:8B949E&animation=fadeIn" alt="" />
+  <img width="100%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/banner-top.svg" alt="" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&duration=2400&pause=60000&color=F0F6FC&center=true&vCenter=true&repeat=false&width=440&height=42&lines=SURYANSH+SHARMA" alt="" />
-  <br />
+  <img width="62%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/anim/glitch.svg" alt="SURYANSH SHARMA" />
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2600&pause=900&color=8B949E&center=true&vCenter=true&width=440&height=24&lines=ai+systems+%C2%B7+backend+%C2%B7+cloud;containerised%2C+tested%2C+deployed;shipping+%E2%80%94+not+prototyping" alt="" />
 </div>
 
 <div align="center">
-  <img width="86%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/terminal.svg" alt="" />
+  <img width="88%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/terminal.svg" alt="" />
 </div>
 
 <div align="center">
@@ -45,7 +47,7 @@
 </div>
 
 <div align="center">
-  <img width="52%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/stack.svg" alt="" />
+  <img width="46%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/stack.svg" alt="" />
 </div>
 
 <div align="center">
@@ -92,7 +94,7 @@
 </div>
 
 <div align="center">
-  <img width="82%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/pipeline.svg" alt="" />
+  <img width="88%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/pipeline.svg" alt="" />
 </div>
 
 <table align="center" width="100%">
@@ -138,6 +140,10 @@
   </tr>
 </table>
 
+<div align="center">
+  <img width="88%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/anim/gitgraph.svg" alt="" />
+</div>
+
 <br />
 
 <div align="center">
@@ -153,7 +159,11 @@
 </div>
 
 <div align="center">
-  <img width="200" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/cube.svg" alt="" />
+  <img width="88%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/anim/neural.svg" alt="" />
+</div>
+
+<div align="center">
+  <img width="200" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/anim/cube-color.svg" alt="" />
 </div>
 
 <br />
@@ -163,9 +173,11 @@
 </div>
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1400&pause=60000&color=F0F6FC&center=true&vCenter=true&repeat=false&width=300&height=38&lines=%2F%2F+HOURS" alt="" />
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1400&pause=60000&color=F0F6FC&center=true&vCenter=true&repeat=false&width=300&height=38&lines=%2F%2F+HOURS" alt="" />
-
+<div align="center">
+  <img width="88%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/anim/wave.svg" alt="" />
 </div>
 
 <!--START_SECTION:waka-->
@@ -200,11 +212,15 @@ YAML         17 mins               █▒░░░░░░░░░░░░░
 </div>
 
 <div align="center">
+  <img width="88%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/anim/ekg.svg" alt="" />
+</div>
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/output/github-contribution-grid-snake.svg" />
-  <img width="94%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/output/github-contribution-grid-snake-dark.svg" alt="" />
+  <img width="88%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/output/github-contribution-grid-snake-dark.svg" alt="" />
 </picture>
 
 </div>
@@ -216,5 +232,5 @@ YAML         17 mins               █▒░░░░░░░░░░░░░
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:8B949E,30:30363D,70:1C2128,100:0D1117&animation=twinkling" alt="" />
+  <img width="100%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/banner-bottom.svg" alt="" />
 </div>

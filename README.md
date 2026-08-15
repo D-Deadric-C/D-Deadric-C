@@ -1,9 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/banner-top.svg" alt="" />
-</div>
-
-<div align="center">
-  <img width="62%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/anim/glitch.svg" alt="SURYANSH SHARMA" />
+  <img width="100%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/hero.svg" alt="Suryansh Sharma" />
 </div>
 
 <div align="center">
@@ -44,10 +40,6 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1400&pause=60000&color=F0F6FC&center=true&vCenter=true&repeat=false&width=300&height=38&lines=%2F%2F+STACK" alt="" />
-</div>
-
-<div align="center">
-  <img width="46%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/stack.svg" alt="" />
 </div>
 
 <div align="center">
@@ -140,10 +132,6 @@
   </tr>
 </table>
 
-<div align="center">
-  <img width="88%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/anim/gitgraph.svg" alt="" />
-</div>
-
 <br />
 
 <div align="center">
@@ -158,14 +146,6 @@
   <img width="88%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/profile-3d-contrib/profile-mono.svg" alt="" />
 </div>
 
-<div align="center">
-  <img width="88%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/anim/neural.svg" alt="" />
-</div>
-
-<div align="center">
-  <img width="200" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/anim/cube-color.svg" alt="" />
-</div>
-
 <br />
 
 <div align="center">
@@ -174,10 +154,6 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1400&pause=60000&color=F0F6FC&center=true&vCenter=true&repeat=false&width=300&height=38&lines=%2F%2F+HOURS" alt="" />
-</div>
-
-<div align="center">
-  <img width="88%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/anim/wave.svg" alt="" />
 </div>
 
 <!--START_SECTION:waka-->
@@ -209,10 +185,6 @@ YAML         17 mins               █▒░░░░░░░░░░░░░
 
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=D-Deadric-C&show_icons=true&hide_border=true&bg_color=00000000&title_color=F0F6FC&text_color=8B949E&icon_color=3FB950&include_all_commits=true&count_private=true&hide_title=true&rank_icon=github" alt="" />
-</div>
-
-<div align="center">
-  <img width="88%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/anim/ekg.svg" alt="" />
 </div>
 
 <div align="center">

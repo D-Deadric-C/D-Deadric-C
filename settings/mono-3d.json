@@ -1,17 +1,17 @@
 {
   "type": "normal",
   "fileName": "profile-mono.svg",
-  "backgroundColor": "#0D1117",
+  "backgroundColor": "#000000",
   "foregroundColor": "#F0F6FC",
-  "strongColor": "#3FB950",
+  "strongColor": "#FFA657",
   "weakColor": "#8B949E",
-  "radarColor": "#3FB950",
+  "radarColor": "#BC8CFF",
   "growingAnimation": true,
   "contribColors": [
-    "#161B22",
-    "#30363D",
-    "#57606A",
-    "#8B949E",
-    "#3FB950"
+    "#0A0A0A",
+    "#1F6FEB",
+    "#BC8CFF",
+    "#3FB950",
+    "#FFA657"
   ]
 }

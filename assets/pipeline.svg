@@ -1,59 +1,34 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 673 176" width="673" height="176" role="img" font-family="ui-monospace,'JetBrains Mono',Consolas,monospace">
-<rect width="673" height="176" fill="#0D1117"/>
-<g transform="translate(24.0,34.0)">
-<g>
-<animateTransform attributeName="transform" type="translate" values="0,0; 0,-6; 0,0" keyTimes="0;0.5;1" dur="3.6s" begin="0.0s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
-<ellipse cx="61.0" cy="116.8" rx="51.2" ry="5" fill="#F0F6FC" fill-opacity=".08"/>
-<g transform="translate(49.9,38.4)">
-<polygon points="-49.88,-9.60 22.17,32.00 22.17,70.40 -49.88,28.80" fill="#161B22" stroke="#30363D"/>
-<polygon points="72.05,3.20 22.17,32.00 22.17,70.40 72.05,41.60" fill="#21262D" stroke="#30363D"/>
-<polygon points="0.00,-38.40 72.05,3.20 22.17,32.00 -49.88,-9.60" fill="#30363D" stroke="#8B949E" stroke-width="1.1"/>
-</g>
-<g transform="matrix(2.7713,1.6000,-2.7713,1.6000,38.79,16.64)"><text font-size="3.44" font-weight="700" fill="#F0F6FC" letter-spacing=".1em">INGEST</text></g>
-</g>
-</g>
-<g transform="translate(191.9,34.0)">
-<g>
-<animateTransform attributeName="transform" type="translate" values="0,0; 0,-6; 0,0" keyTimes="0;0.5;1" dur="3.6s" begin="0.3s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
-<ellipse cx="61.0" cy="116.8" rx="51.2" ry="5" fill="#F0F6FC" fill-opacity=".08"/>
-<g transform="translate(49.9,38.4)">
-<polygon points="-49.88,-9.60 22.17,32.00 22.17,70.40 -49.88,28.80" fill="#161B22" stroke="#30363D"/>
-<polygon points="72.05,3.20 22.17,32.00 22.17,70.40 72.05,41.60" fill="#21262D" stroke="#30363D"/>
-<polygon points="0.00,-38.40 72.05,3.20 22.17,32.00 -49.88,-9.60" fill="#30363D" stroke="#8B949E" stroke-width="1.1"/>
-</g>
-<g transform="matrix(2.7713,1.6000,-2.7713,1.6000,38.79,16.64)"><text font-size="3.44" font-weight="700" fill="#F0F6FC" letter-spacing=".1em">EMBED</text></g>
-</g>
-</g>
-<g transform="translate(359.9,34.0)">
-<g>
-<animateTransform attributeName="transform" type="translate" values="0,0; 0,-6; 0,0" keyTimes="0;0.5;1" dur="3.6s" begin="0.6s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
-<ellipse cx="61.0" cy="116.8" rx="51.2" ry="5" fill="#F0F6FC" fill-opacity=".08"/>
-<g transform="translate(49.9,38.4)">
-<polygon points="-49.88,-9.60 22.17,32.00 22.17,70.40 -49.88,28.80" fill="#161B22" stroke="#30363D"/>
-<polygon points="72.05,3.20 22.17,32.00 22.17,70.40 72.05,41.60" fill="#21262D" stroke="#30363D"/>
-<polygon points="0.00,-38.40 72.05,3.20 22.17,32.00 -49.88,-9.60" fill="#30363D" stroke="#8B949E" stroke-width="1.1"/>
-</g>
-<g transform="matrix(2.7713,1.6000,-2.7713,1.6000,38.79,16.64)"><text font-size="3.44" font-weight="700" fill="#F0F6FC" letter-spacing=".1em">RETRIEVE</text></g>
-</g>
-</g>
-<g transform="translate(527.8,34.0)">
-<g>
-<animateTransform attributeName="transform" type="translate" values="0,0; 0,-6; 0,0" keyTimes="0;0.5;1" dur="3.6s" begin="0.9s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
-<ellipse cx="61.0" cy="116.8" rx="51.2" ry="5" fill="#F0F6FC" fill-opacity=".08"/>
-<g transform="translate(49.9,38.4)">
-<polygon points="-49.88,-9.60 22.17,32.00 22.17,70.40 -49.88,28.80" fill="#161B22" stroke="#30363D"/>
-<polygon points="72.05,3.20 22.17,32.00 22.17,70.40 72.05,41.60" fill="#21262D" stroke="#30363D"/>
-<polygon points="0.00,-38.40 72.05,3.20 22.17,32.00 -49.88,-9.60" fill="#30363D" stroke="#8B949E" stroke-width="1.1"/>
-</g>
-<g transform="matrix(2.7713,1.6000,-2.7713,1.6000,38.79,16.64)"><text font-size="3.44" font-weight="700" fill="#F0F6FC" letter-spacing=".1em">SERVE</text></g>
-</g>
-</g>
-<path d="M141.9 90.6H195.9" stroke="#30363D" stroke-width="1.4" fill="none"/>
-<path d="M188.9 86.6l6 4-6 4z" fill="#8B949E"/>
-<path d="M309.9 90.6H363.9" stroke="#30363D" stroke-width="1.4" fill="none"/>
-<path d="M356.9 86.6l6 4-6 4z" fill="#8B949E"/>
-<path d="M477.8 90.6H531.8" stroke="#30363D" stroke-width="1.4" fill="none"/>
-<path d="M524.8 86.6l6 4-6 4z" fill="#8B949E"/>
-<circle r="4" cx="85.0" cy="90.6" fill="#3FB950"><animateMotion dur="3.4s" repeatCount="indefinite" path="M85.0 90.6 H588.8" keyPoints="0;1" keyTimes="0;1" calcMode="linear"/><animate attributeName="opacity" values="0;1;1;0" dur="3.4s" repeatCount="indefinite"/></circle>
-<circle r="9" cx="85.0" cy="90.6" fill="#3FB950" opacity=".22"><animateMotion dur="3.4s" repeatCount="indefinite" path="M85.0 90.6 H588.8"/></circle>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 230" width="940" height="230" role="img">
+<rect width="940" height="230" fill="#000000"/>
+<defs><linearGradient id="rail" x1="0" x2="1"><stop offset="0%" stop-color="#58A6FF"/><stop offset="33%" stop-color="#BC8CFF"/><stop offset="66%" stop-color="#3FB950"/><stop offset="100%" stop-color="#FFA657"/></linearGradient></defs>
+<line x1="206" y1="115" x2="265" y2="115" stroke="#1E1E1E" stroke-width="2"/>
+<path d="M256 110 l6 5 -6 5z" fill="#3A3A3A"/>
+<line x1="441" y1="115" x2="499" y2="115" stroke="#1E1E1E" stroke-width="2"/>
+<path d="M490 110 l6 5 -6 5z" fill="#3A3A3A"/>
+<line x1="675" y1="115" x2="734" y2="115" stroke="#1E1E1E" stroke-width="2"/>
+<path d="M725 110 l6 5 -6 5z" fill="#3A3A3A"/>
+<rect x="30" y="78" width="176" height="74" rx="10" fill="#0A0A0A" stroke="#242424" stroke-width="1.4"/><rect x="30" y="78" width="176" height="74" rx="10" fill="#58A6FF" fill-opacity="0" stroke="#58A6FF" stroke-opacity="0" stroke-width="1.6"><animate attributeName="fill-opacity" values="0;.16;.05;0" keyTimes="0;0.10;0.45;1" dur="6.0s" begin="0.00s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0;1;.35;0" keyTimes="0;0.10;0.45;1" dur="6.0s" begin="0.00s" repeatCount="indefinite"/></rect>
+<rect x="44" y="76" width="148" height="2.5" rx="1.25" fill="#58A6FF" opacity=".18"><animate attributeName="opacity" values=".18;1;.4;.18" keyTimes="0;0.10;0.45;1" dur="6.0s" begin="0.00s" repeatCount="indefinite"/></rect>
+<text x="118" y="109" text-anchor="middle" font-family="ui-monospace,'JetBrains Mono','Fira Code',Consolas,monospace" font-size="15" font-weight="700" letter-spacing=".16em" fill="#E6EDF3">INGEST</text>
+<text x="118" y="130" text-anchor="middle" font-family="ui-monospace,'JetBrains Mono','Fira Code',Consolas,monospace" font-size="10.5" fill="#58A6FF" opacity=".75">GitHub · yt-dlp</text>
+<text x="118" y="174" text-anchor="middle" font-family="ui-monospace,'JetBrains Mono','Fira Code',Consolas,monospace" font-size="9.5" fill="#4A4A4A" letter-spacing=".2em">01</text>
+<rect x="265" y="78" width="176" height="74" rx="10" fill="#0A0A0A" stroke="#242424" stroke-width="1.4"/><rect x="265" y="78" width="176" height="74" rx="10" fill="#BC8CFF" fill-opacity="0" stroke="#BC8CFF" stroke-opacity="0" stroke-width="1.6"><animate attributeName="fill-opacity" values="0;.16;.05;0" keyTimes="0;0.10;0.45;1" dur="6.0s" begin="1.50s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0;1;.35;0" keyTimes="0;0.10;0.45;1" dur="6.0s" begin="1.50s" repeatCount="indefinite"/></rect>
+<rect x="279" y="76" width="148" height="2.5" rx="1.25" fill="#BC8CFF" opacity=".18"><animate attributeName="opacity" values=".18;1;.4;.18" keyTimes="0;0.10;0.45;1" dur="6.0s" begin="1.50s" repeatCount="indefinite"/></rect>
+<text x="353" y="109" text-anchor="middle" font-family="ui-monospace,'JetBrains Mono','Fira Code',Consolas,monospace" font-size="15" font-weight="700" letter-spacing=".16em" fill="#E6EDF3">EMBED</text>
+<text x="353" y="130" text-anchor="middle" font-family="ui-monospace,'JetBrains Mono','Fira Code',Consolas,monospace" font-size="10.5" fill="#BC8CFF" opacity=".75">Whisper · Gemini</text>
+<text x="353" y="174" text-anchor="middle" font-family="ui-monospace,'JetBrains Mono','Fira Code',Consolas,monospace" font-size="9.5" fill="#4A4A4A" letter-spacing=".2em">02</text>
+<rect x="499" y="78" width="176" height="74" rx="10" fill="#0A0A0A" stroke="#242424" stroke-width="1.4"/><rect x="499" y="78" width="176" height="74" rx="10" fill="#3FB950" fill-opacity="0" stroke="#3FB950" stroke-opacity="0" stroke-width="1.6"><animate attributeName="fill-opacity" values="0;.16;.05;0" keyTimes="0;0.10;0.45;1" dur="6.0s" begin="3.00s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0;1;.35;0" keyTimes="0;0.10;0.45;1" dur="6.0s" begin="3.00s" repeatCount="indefinite"/></rect>
+<rect x="513" y="76" width="148" height="2.5" rx="1.25" fill="#3FB950" opacity=".18"><animate attributeName="opacity" values=".18;1;.4;.18" keyTimes="0;0.10;0.45;1" dur="6.0s" begin="3.00s" repeatCount="indefinite"/></rect>
+<text x="587" y="109" text-anchor="middle" font-family="ui-monospace,'JetBrains Mono','Fira Code',Consolas,monospace" font-size="15" font-weight="700" letter-spacing=".16em" fill="#E6EDF3">RETRIEVE</text>
+<text x="587" y="130" text-anchor="middle" font-family="ui-monospace,'JetBrains Mono','Fira Code',Consolas,monospace" font-size="10.5" fill="#3FB950" opacity=".75">ChromaDB · pgvector</text>
+<text x="587" y="174" text-anchor="middle" font-family="ui-monospace,'JetBrains Mono','Fira Code',Consolas,monospace" font-size="9.5" fill="#4A4A4A" letter-spacing=".2em">03</text>
+<rect x="734" y="78" width="176" height="74" rx="10" fill="#0A0A0A" stroke="#242424" stroke-width="1.4"/><rect x="734" y="78" width="176" height="74" rx="10" fill="#FFA657" fill-opacity="0" stroke="#FFA657" stroke-opacity="0" stroke-width="1.6"><animate attributeName="fill-opacity" values="0;.16;.05;0" keyTimes="0;0.10;0.45;1" dur="6.0s" begin="4.50s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0;1;.35;0" keyTimes="0;0.10;0.45;1" dur="6.0s" begin="4.50s" repeatCount="indefinite"/></rect>
+<rect x="748" y="76" width="148" height="2.5" rx="1.25" fill="#FFA657" opacity=".18"><animate attributeName="opacity" values=".18;1;.4;.18" keyTimes="0;0.10;0.45;1" dur="6.0s" begin="4.50s" repeatCount="indefinite"/></rect>
+<text x="822" y="109" text-anchor="middle" font-family="ui-monospace,'JetBrains Mono','Fira Code',Consolas,monospace" font-size="15" font-weight="700" letter-spacing=".16em" fill="#E6EDF3">SERVE</text>
+<text x="822" y="130" text-anchor="middle" font-family="ui-monospace,'JetBrains Mono','Fira Code',Consolas,monospace" font-size="10.5" fill="#FFA657" opacity=".75">FastAPI · Next.js</text>
+<text x="822" y="174" text-anchor="middle" font-family="ui-monospace,'JetBrains Mono','Fira Code',Consolas,monospace" font-size="9.5" fill="#4A4A4A" letter-spacing=".2em">04</text>
+<line x1="42" y1="200" x2="898" y2="200" stroke="#161616" stroke-width="3" stroke-linecap="round"/>
+<line x1="42" y1="200" x2="898" y2="200" stroke="url(#rail)" stroke-width="3" stroke-linecap="round" stroke-dasharray="856.0" stroke-dashoffset="856.0"><animate attributeName="stroke-dashoffset" values="856.0;0" dur="6.0s" repeatCount="indefinite"/></line>
+<circle r="11" fill="#FFFFFF" opacity=".14"><animateMotion dur="6.0s" repeatCount="indefinite" path="M42 200 H898"/></circle>
+<circle r="5" fill="#FFFFFF"><animateMotion dur="6.0s" repeatCount="indefinite" path="M42 200 H898"/></circle>
 </svg>

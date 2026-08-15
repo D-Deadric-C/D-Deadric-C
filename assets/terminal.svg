@@ -14,17 +14,17 @@
  </linearGradient>
  <clipPath id="win"><rect x="18" y="16" width="738" height="274" rx="9"/></clipPath>
 </defs>
-<rect width="790" height="330" fill="#0D1117"/>
+<rect width="790" height="330" fill="#000000"/>
 <g class="win">
-<rect x="30" y="28" width="738" height="274" rx="9" fill="#161B22"/>
-<rect x="24" y="22" width="738" height="274" rx="9" fill="#11151c"/>
-<rect x="18" y="16" width="738" height="274" rx="9" fill="#161B22" stroke="#30363D"/>
-<path d="M18 25a9 9 0 0 1 9-9h720a9 9 0 0 1 9 9v21H18z" fill="#0F131A" stroke="#30363D"/>
+<rect x="30" y="28" width="738" height="274" rx="9" fill="#050505"/>
+<rect x="24" y="22" width="738" height="274" rx="9" fill="#030303"/>
+<rect x="18" y="16" width="738" height="274" rx="9" fill="#050505" stroke="#30363D"/>
+<path d="M18 25a9 9 0 0 1 9-9h720a9 9 0 0 1 9 9v21H18z" fill="#080808" stroke="#30363D"/>
 <circle cx="40" cy="31" r="4.6" fill="#30363D" stroke="#8B949E" stroke-width=".8"/>
 <circle cx="57" cy="31" r="4.6" fill="#30363D" stroke="#8B949E" stroke-width=".8"/>
 <circle cx="74" cy="31" r="4.6" fill="#30363D" stroke="#8B949E" stroke-width=".8"/>
 <text x="738" y="36" text-anchor="end" fill="#8B949E" font-size="11">bash</text>
-<g opacity=".95"><polygon points="145.0,92 70,242 145.0,242" fill="#1793D1" fill-opacity=".88"/><polygon points="145.0,92 220,242 145.0,242" fill="#0E5A8A" fill-opacity=".72"/><polygon points="145.0,185.0 119.0,242 171.0,242" fill="#161B22"/><ellipse cx="145.0" cy="251" rx="78.0" ry="6" fill="#F0F6FC" fill-opacity=".10"><animate attributeName="rx" values="78.0;66.0;78.0" dur="6s" repeatCount="indefinite"/></ellipse></g>
+<g opacity=".95"><polygon points="145.0,92 70,242 145.0,242" fill="#1793D1" fill-opacity=".88"/><polygon points="145.0,92 220,242 145.0,242" fill="#0E5A8A" fill-opacity=".72"/><polygon points="145.0,185.0 119.0,242 171.0,242" fill="#050505"/><ellipse cx="145.0" cy="251" rx="78.0" ry="6" fill="#F0F6FC" fill-opacity=".10"><animate attributeName="rx" values="78.0;66.0;78.0" dur="6s" repeatCount="indefinite"/></ellipse></g>
 <clipPath id="l0"><rect x="250" y="65.0" height="19.0" width="0"><animate attributeName="width" from="0" to="234.4" begin="0.35s" dur="0.78s" fill="freeze"/></rect></clipPath>
 <text x="250" y="78" fill="#F0F6FC" clip-path="url(#l0)" xml:space="preserve">[D-Deadric-C@arch ~]$ neofetch</text>
 <clipPath id="l2"><rect x="250" y="103.0" height="19.0" width="0"><animate attributeName="width" from="0" to="211.0" begin="1.25s" dur="0.70s" fill="freeze"/></rect></clipPath>

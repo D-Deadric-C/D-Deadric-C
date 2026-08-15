@@ -11,17 +11,13 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/suryansh-sharma-a76b52324"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=F0F6FC" alt="" /></a>
-  <a href="https://leetcode.com/u/iamgreatness/"><img src="https://img.shields.io/badge/LeetCode-161B22?style=for-the-badge&logo=leetcode&logoColor=F0F6FC" alt="" /></a>
-  <a href="mailto:suryansh456789@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=F0F6FC" alt="" /></a>
-  <img src="https://komarev.com/ghpvc/?username=D-Deadric-C&style=for-the-badge&color=30363D&label=VIEWS" alt="" />
+  <a href="https://www.linkedin.com/in/suryansh-sharma-a76b52324"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=F0F6FC" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/iamgreatness/"><img src="https://img.shields.io/badge/LeetCode-0A0A0A?style=for-the-badge&logo=leetcode&logoColor=F0F6FC" alt="LeetCode" /></a>
+  <a href="mailto:suryansh456789@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=F0F6FC" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=D-Deadric-C&style=for-the-badge&color=1A1A1A&label=VIEWS" alt="" />
 </div>
 
 <br />
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0D1117,50:8B949E,100:0D1117" alt="" />
-</div>
 
 <div align="center">
   <img width="92%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/facts.svg" alt="Currently: B.E. Computer Science, Thapar 2027 · Focus: AI systems, cloud infrastructure · Algorithms: 1,100+ problems, top 12% LeetCode · Open to: software engineering internships" />
@@ -30,11 +26,7 @@
 <br />
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0D1117,50:8B949E,100:0D1117" alt="" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1400&pause=60000&color=F0F6FC&center=true&vCenter=true&repeat=false&width=300&height=38&lines=%2F%2F+STACK" alt="" />
+  <img width="38%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/hdr-stack.svg" alt="// STACK" />
 </div>
 
 <div align="center">
@@ -44,56 +36,30 @@
 <br />
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0D1117,50:8B949E,100:0D1117" alt="" />
+  <img width="38%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/hdr-work.svg" alt="// WORK" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1400&pause=60000&color=F0F6FC&center=true&vCenter=true&repeat=false&width=300&height=38&lines=%2F%2F+WORK" alt="" />
-</div>
-
-<div align="center">
-  <img width="88%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/pipeline.svg" alt="" />
+  <img width="92%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/pipeline.svg" alt="Pipeline: ingest, embed, retrieve, serve" />
 </div>
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3>GitPulse &nbsp;<img width="84" height="20" valign="middle" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/status-active.svg" alt="active" /></h3>
-      <p><sub>
-        AI repository intelligence. Chat with any codebase, generate architecture
-        diagrams, run security scans — without cloning.
-      </sub></p>
-      <p><sub>
-        Two containerised services on <b>Azure Container Apps</b>. Full-file context
-        injection instead of chunked retrieval. 346 automated tests.
-      </sub></p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=8B949E" alt="" />
-        <img src="https://img.shields.io/badge/FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=8B949E" alt="" />
-        <img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=8B949E" alt="" />
-        <img src="https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=8B949E" alt="" />
-      </p>
-      <a href="https://github.com/D-Deadric-C/GitAnalyze"><img src="https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=F0F6FC" alt="" /></a>
-      <a href="https://gitpulse-web.yellowstone-745f9fa6.centralindia.azurecontainerapps.io"><img src="https://img.shields.io/badge/Live-0D1117?style=flat-square&logo=vercel&logoColor=F0F6FC" alt="" /></a>
+    <td width="50%" align="center">
+      <a href="https://github.com/D-Deadric-C/GitAnalyze">
+        <img width="100%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/card-gitpulse.svg" alt="GitPulse — AI repository intelligence. Next.js, FastAPI, PostgreSQL, Docker." />
+      </a>
+      <br />
+      <a href="https://github.com/D-Deadric-C/GitAnalyze"><img src="https://img.shields.io/badge/Source-0A0A0A?style=flat-square&logo=github&logoColor=F0F6FC" alt="Source" /></a>
+      <a href="https://gitpulse-web.yellowstone-745f9fa6.centralindia.azurecontainerapps.io"><img src="https://img.shields.io/badge/Live-0A0A0A?style=flat-square&logo=vercel&logoColor=58A6FF" alt="Live" /></a>
     </td>
-    <td width="50%" valign="top">
-      <h3>AI Video Assistant &nbsp;<img width="84" height="20" valign="middle" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/status-active.svg" alt="active" /></h3>
-      <p><sub>
-        Transcribes and summarises full-length YouTube videos, then answers
-        questions grounded in the transcript.
-      </sub></p>
-      <p><sub>
-        Whisper speech-to-text into a <b>RAG</b> pipeline with ChromaDB vector
-        storage and semantic retrieval.
-      </sub></p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=8B949E" alt="" />
-        <img src="https://img.shields.io/badge/LangChain-161B22?style=flat-square&logo=langchain&logoColor=8B949E" alt="" />
-        <img src="https://img.shields.io/badge/Whisper-161B22?style=flat-square&logo=openai&logoColor=8B949E" alt="" />
-        <img src="https://img.shields.io/badge/Streamlit-161B22?style=flat-square&logo=streamlit&logoColor=8B949E" alt="" />
-      </p>
-      <a href="https://github.com/D-Deadric-C/YT_VID_ANAL"><img src="https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=F0F6FC" alt="" /></a>
-      <a href="https://ytvidana.streamlit.app/"><img src="https://img.shields.io/badge/Live-0D1117?style=flat-square&logo=streamlit&logoColor=F0F6FC" alt="" /></a>
+    <td width="50%" align="center">
+      <a href="https://github.com/D-Deadric-C/YT_VID_ANAL">
+        <img width="100%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/card-ytvid.svg" alt="AI Video Assistant — transcribes and answers questions about YouTube videos. Python, LangChain, Whisper, Streamlit." />
+      </a>
+      <br />
+      <a href="https://github.com/D-Deadric-C/YT_VID_ANAL"><img src="https://img.shields.io/badge/Source-0A0A0A?style=flat-square&logo=github&logoColor=F0F6FC" alt="Source" /></a>
+      <a href="https://ytvidana.streamlit.app/"><img src="https://img.shields.io/badge/Live-0A0A0A?style=flat-square&logo=streamlit&logoColor=BC8CFF" alt="Live" /></a>
     </td>
   </tr>
 </table>
@@ -101,25 +67,17 @@
 <br />
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0D1117,50:8B949E,100:0D1117" alt="" />
+  <img width="38%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/hdr-depth.svg" alt="// DEPTH" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1400&pause=60000&color=F0F6FC&center=true&vCenter=true&repeat=false&width=300&height=38&lines=%2F%2F+DEPTH" alt="" />
-</div>
-
-<div align="center">
-  <img width="88%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/profile-3d-contrib/profile-mono.svg" alt="" />
+  <img width="92%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/profile-3d-contrib/profile-mono.svg" alt="" />
 </div>
 
 <br />
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0D1117,50:8B949E,100:0D1117" alt="" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1400&pause=60000&color=F0F6FC&center=true&vCenter=true&repeat=false&width=300&height=38&lines=%2F%2F+HOURS" alt="" />
+  <img width="38%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/hdr-hours.svg" alt="// HOURS" />
 </div>
 
 <!--START_SECTION:waka-->
@@ -142,15 +100,11 @@ YAML         17 mins               █▒░░░░░░░░░░░░░
 <br />
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0D1117,50:8B949E,100:0D1117" alt="" />
+  <img width="38%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/hdr-activity.svg" alt="// ACTIVITY" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1400&pause=60000&color=F0F6FC&center=true&vCenter=true&repeat=false&width=300&height=38&lines=%2F%2F+ACTIVITY" alt="" />
-</div>
-
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=D-Deadric-C&show_icons=true&hide_border=true&bg_color=00000000&title_color=F0F6FC&text_color=8B949E&icon_color=3FB950&include_all_commits=true&count_private=true&hide_title=true&rank_icon=github" alt="" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=D-Deadric-C&show_icons=true&hide_border=true&bg_color=00000000&title_color=F0F6FC&text_color=8B949E&icon_color=BC8CFF&include_all_commits=true&count_private=true&hide_title=true&rank_icon=github" alt="" />
 </div>
 
 <div align="center">
@@ -158,7 +112,7 @@ YAML         17 mins               █▒░░░░░░░░░░░░░
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/output/github-contribution-grid-snake.svg" />
-  <img width="88%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/output/github-contribution-grid-snake-dark.svg" alt="" />
+  <img width="92%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/output/github-contribution-grid-snake-dark.svg" alt="" />
 </picture>
 
 </div>

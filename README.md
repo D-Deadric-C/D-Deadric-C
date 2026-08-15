@@ -23,7 +23,9 @@
   <img width="92%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/facts.svg" alt="Currently: B.E. Computer Science, Thapar 2027 · Focus: AI systems, cloud infrastructure · Algorithms: 1,100+ problems, top 12% LeetCode · Open to: software engineering internships" />
 </div>
 
-<br />
+<div align="center">
+  <img width="92%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/divider.svg" alt="" />
+</div>
 
 <div align="center">
   <img width="38%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/hdr-stack.svg" alt="// STACK" />
@@ -33,7 +35,9 @@
   <img width="72%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/stack.svg" alt="Languages: TypeScript, JavaScript, Python, C++ · Frontend: React, Next.js, Tailwind, HTML, CSS · Backend: Node.js, FastAPI, Prisma, PostgreSQL, Redis · Cloud and ops: Docker, Azure, GCP, Vercel, Linux, Git · AI: Gemini, LangChain, Hugging Face, Ollama, ChromaDB" />
 </div>
 
-<br />
+<div align="center">
+  <img width="92%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/divider.svg" alt="" />
+</div>
 
 <div align="center">
   <img width="38%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/hdr-work.svg" alt="// WORK" />
@@ -43,28 +47,22 @@
   <img width="92%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/pipeline.svg" alt="Pipeline: ingest, embed, retrieve, serve" />
 </div>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/D-Deadric-C/GitAnalyze">
-        <img width="100%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/card-gitpulse.svg" alt="GitPulse — AI repository intelligence. Next.js, FastAPI, PostgreSQL, Docker." />
-      </a>
-      <br />
-      <a href="https://github.com/D-Deadric-C/GitAnalyze"><img src="https://img.shields.io/badge/Source-0A0A0A?style=flat-square&logo=github&logoColor=F0F6FC" alt="Source" /></a>
-      <a href="https://gitpulse-web.yellowstone-745f9fa6.centralindia.azurecontainerapps.io"><img src="https://img.shields.io/badge/Live-0A0A0A?style=flat-square&logo=vercel&logoColor=58A6FF" alt="Live" /></a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/D-Deadric-C/YT_VID_ANAL">
-        <img width="100%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/card-ytvid.svg" alt="AI Video Assistant — transcribes and answers questions about YouTube videos. Python, LangChain, Whisper, Streamlit." />
-      </a>
-      <br />
-      <a href="https://github.com/D-Deadric-C/YT_VID_ANAL"><img src="https://img.shields.io/badge/Source-0A0A0A?style=flat-square&logo=github&logoColor=F0F6FC" alt="Source" /></a>
-      <a href="https://ytvidana.streamlit.app/"><img src="https://img.shields.io/badge/Live-0A0A0A?style=flat-square&logo=streamlit&logoColor=BC8CFF" alt="Live" /></a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/D-Deadric-C/GitAnalyze"><img width="46%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/card-gitpulse.svg" alt="GitPulse — AI repository intelligence. Next.js, FastAPI, PostgreSQL, Docker." /></a>
+  <a href="https://github.com/D-Deadric-C/YT_VID_ANAL"><img width="46%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/card-ytvid.svg" alt="AI Video Assistant — transcribes and answers questions about YouTube videos. Python, LangChain, Whisper, Streamlit." /></a>
+</div>
 
-<br />
+<div align="center">
+  <a href="https://github.com/D-Deadric-C/GitAnalyze"><img src="https://img.shields.io/badge/GitPulse_Source-0A0A0A?style=flat-square&logo=github&logoColor=F0F6FC" alt="GitPulse source" /></a>
+  <a href="https://gitpulse-web.yellowstone-745f9fa6.centralindia.azurecontainerapps.io"><img src="https://img.shields.io/badge/Live-0A0A0A?style=flat-square&logo=vercel&logoColor=58A6FF" alt="GitPulse live" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/D-Deadric-C/YT_VID_ANAL"><img src="https://img.shields.io/badge/Video_Assistant_Source-0A0A0A?style=flat-square&logo=github&logoColor=F0F6FC" alt="Video Assistant source" /></a>
+  <a href="https://ytvidana.streamlit.app/"><img src="https://img.shields.io/badge/Live-0A0A0A?style=flat-square&logo=streamlit&logoColor=BC8CFF" alt="Video Assistant live" /></a>
+</div>
+
+<div align="center">
+  <img width="92%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/divider.svg" alt="" />
+</div>
 
 <div align="center">
   <img width="38%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/hdr-depth.svg" alt="// DEPTH" />
@@ -74,10 +72,16 @@
   <img width="92%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/profile-3d-contrib/profile-mono.svg" alt="" />
 </div>
 
-<br />
+<div align="center">
+  <img width="92%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/divider.svg" alt="" />
+</div>
 
 <div align="center">
   <img width="38%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/hdr-hours.svg" alt="// HOURS" />
+</div>
+
+<div align="center">
+  <img width="80%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/hours.svg" alt="Where the hours go" />
 </div>
 
 <!--START_SECTION:waka-->
@@ -97,7 +101,9 @@ YAML         17 mins               █▒░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<br />
+<div align="center">
+  <img width="92%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/divider.svg" alt="" />
+</div>
 
 <div align="center">
   <img width="38%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/hdr-activity.svg" alt="// ACTIVITY" />

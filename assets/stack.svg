@@ -1,13 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="-135.1 -213.1 408.5 460.5" width="408" height="460" role="img">
-<style>
- text{font-family:ui-monospace,'JetBrains Mono',Consolas,monospace}
- .lbl{font-weight:700;fill:#F0F6FC;letter-spacing:.08em}
- .sub{fill:#8B949E}
- .lay{animation:fl 5s ease-in-out infinite}
- @keyframes fl{0%,100%{transform:translateY(0px)}50%{transform:translateY(-6px)}}
- .sw{animation:sw 6s linear infinite}
- @keyframes sw{0%{transform:translateX(-299px)}100%{transform:translateX(273px)}}
-</style>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-135.1 -213.1 408.5 460.5" width="408" height="460" role="img" font-family="ui-monospace,'JetBrains Mono',Consolas,monospace">
 <defs>
  <linearGradient id="g" x1="0" x2="1">
   <stop offset="0%" stop-color="#F0F6FC" stop-opacity="0"/>
@@ -17,35 +8,44 @@
  <clipPath id="c"><rect x="-135.1" y="-213.1" width="408.5" height="460.5"/></clipPath>
 </defs>
 <rect x="-135.1" y="-213.1" width="408.5" height="460.5" fill="#0D1117"/>
-<g class="lay" style="animation-delay:0.00s">
+<g>
+<animateTransform attributeName="transform" type="translate" values="0,0; 0,-6; 0,0" keyTimes="0;0.5;1" dur="5s" begin="0.0s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
 <polygon points="-109.12,-131.88 138.22,10.92 138.22,21.00 -109.12,-121.80" fill="#161B22" stroke="#30363D"/>
 <polygon points="247.34,-52.08 138.22,10.92 138.22,21.00 247.34,-42.00" fill="#21262D" stroke="#30363D"/>
 <polygon points="0.00,-194.88 247.34,-52.08 138.22,10.92 -109.12,-131.88" fill="#30363D" stroke="#8B949E" stroke-width="1.1"/>
-<g transform="matrix(3.6373,2.1000,-3.6373,2.1000,-10.91,-171.78)"><text class="lbl" font-size="3.33">INTERFACE</text><text class="sub" font-size="2.26" y="3.85">Next.js · React · TypeScript · Tailwind</text></g>
+<g transform="matrix(3.6373,2.1000,-3.6373,2.1000,-10.91,-171.78)"><text font-weight="700" fill="#F0F6FC" letter-spacing=".08em" font-size="3.33">INTERFACE</text><text fill="#8B949E" font-size="2.26" y="3.85">Next.js · React · TypeScript · Tailwind</text></g>
 </g>
-<g class="lay" style="animation-delay:0.40s">
+<g>
+<animateTransform attributeName="transform" type="translate" values="0,0; 0,-6; 0,0" keyTimes="0;0.5;1" dur="5s" begin="0.4s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
 <polygon points="-109.12,-85.68 138.22,57.12 138.22,67.20 -109.12,-75.60" fill="#161B22" stroke="#30363D"/>
 <polygon points="247.34,-5.88 138.22,57.12 138.22,67.20 247.34,4.20" fill="#21262D" stroke="#30363D"/>
 <polygon points="0.00,-148.68 247.34,-5.88 138.22,57.12 -109.12,-85.68" fill="#30363D" stroke="#8B949E" stroke-width="1.1"/>
-<g transform="matrix(3.6373,2.1000,-3.6373,2.1000,-10.91,-125.58)"><text class="lbl" font-size="3.33">SERVICE</text><text class="sub" font-size="2.26" y="3.85">FastAPI · Node · Prisma · streaming</text></g>
+<g transform="matrix(3.6373,2.1000,-3.6373,2.1000,-10.91,-125.58)"><text font-weight="700" fill="#F0F6FC" letter-spacing=".08em" font-size="3.33">SERVICE</text><text fill="#8B949E" font-size="2.26" y="3.85">FastAPI · Node · Prisma · streaming</text></g>
 </g>
-<g class="lay" style="animation-delay:0.80s">
+<g>
+<animateTransform attributeName="transform" type="translate" values="0,0; 0,-6; 0,0" keyTimes="0;0.5;1" dur="5s" begin="0.8s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
 <polygon points="-109.12,-39.48 138.22,103.32 138.22,113.40 -109.12,-29.40" fill="#161B22" stroke="#30363D"/>
 <polygon points="247.34,40.32 138.22,103.32 138.22,113.40 247.34,50.40" fill="#21262D" stroke="#30363D"/>
 <polygon points="0.00,-102.48 247.34,40.32 138.22,103.32 -109.12,-39.48" fill="#30363D" stroke="#8B949E" stroke-width="1.1"/>
-<g transform="matrix(3.6373,2.1000,-3.6373,2.1000,-10.91,-79.38)"><text class="lbl" font-size="3.33">INTELLIGENCE</text><text class="sub" font-size="2.26" y="3.85">LangChain · Gemini · Whisper · ChromaDB</text></g>
+<g transform="matrix(3.6373,2.1000,-3.6373,2.1000,-10.91,-79.38)"><text font-weight="700" fill="#F0F6FC" letter-spacing=".08em" font-size="3.33">INTELLIGENCE</text><text fill="#8B949E" font-size="2.26" y="3.85">LangChain · Gemini · Whisper · ChromaDB</text></g>
 </g>
-<g class="lay" style="animation-delay:1.20s">
+<g>
+<animateTransform attributeName="transform" type="translate" values="0,0; 0,-6; 0,0" keyTimes="0;0.5;1" dur="5s" begin="1.2s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
 <polygon points="-109.12,6.72 138.22,149.52 138.22,159.60 -109.12,16.80" fill="#161B22" stroke="#30363D"/>
 <polygon points="247.34,86.52 138.22,149.52 138.22,159.60 247.34,96.60" fill="#21262D" stroke="#30363D"/>
 <polygon points="0.00,-56.28 247.34,86.52 138.22,149.52 -109.12,6.72" fill="#30363D" stroke="#8B949E" stroke-width="1.1"/>
-<g transform="matrix(3.6373,2.1000,-3.6373,2.1000,-10.91,-33.18)"><text class="lbl" font-size="3.33">STATE</text><text class="sub" font-size="2.26" y="3.85">PostgreSQL · Redis · vector stores</text></g>
+<g transform="matrix(3.6373,2.1000,-3.6373,2.1000,-10.91,-33.18)"><text font-weight="700" fill="#F0F6FC" letter-spacing=".08em" font-size="3.33">STATE</text><text fill="#8B949E" font-size="2.26" y="3.85">PostgreSQL · Redis · vector stores</text></g>
 </g>
-<g class="lay" style="animation-delay:1.60s">
+<g>
+<animateTransform attributeName="transform" type="translate" values="0,0; 0,-6; 0,0" keyTimes="0;0.5;1" dur="5s" begin="1.6s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
 <polygon points="-109.12,52.92 138.22,195.72 138.22,205.80 -109.12,63.00" fill="#161B22" stroke="#30363D"/>
 <polygon points="247.34,132.72 138.22,195.72 138.22,205.80 247.34,142.80" fill="#21262D" stroke="#30363D"/>
 <polygon points="0.00,-10.08 247.34,132.72 138.22,195.72 -109.12,52.92" fill="#30363D" stroke="#8B949E" stroke-width="1.1"/>
-<g transform="matrix(3.6373,2.1000,-3.6373,2.1000,-10.91,13.02)"><text class="lbl" font-size="3.33">PLATFORM</text><text class="sub" font-size="2.26" y="3.85">Docker · Azure Container Apps · CI/CD</text></g>
+<g transform="matrix(3.6373,2.1000,-3.6373,2.1000,-10.91,13.02)"><text font-weight="700" fill="#F0F6FC" letter-spacing=".08em" font-size="3.33">PLATFORM</text><text fill="#8B949E" font-size="2.26" y="3.85">Docker · Azure Container Apps · CI/CD</text></g>
 </g>
-<g clip-path="url(#c)"><rect class="sw" x="-135" y="-213" width="143" height="460" fill="url(#g)"/></g>
+<g clip-path="url(#c)">
+<rect x="-135" y="-213" width="143" height="460" fill="url(#g)">
+<animateTransform attributeName="transform" type="translate" values="-164,0; 408,0" dur="6s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+</g>
 </svg>

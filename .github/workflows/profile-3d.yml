@@ -19,6 +19,11 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: settings/mono-3d.json
 
+      - name: Drop unused variants
+        run: |
+          cd profile-3d-contrib
+          find . -type f ! -name profile-mono.svg -delete
+
       - name: Commit and push
         run: |
           git config user.name  "github-actions[bot]"

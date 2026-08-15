@@ -19,12 +19,12 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: D-Deadric-C
-          # Pure monochrome, inverted between themes.
-          # color_dots runs empty cell -> busiest day, so the ramp ends on the
-          # "ink" colour: white on dark, black on light.
+          # Monochrome contribution grid, single green accent snake — matches
+          # the rest of the profile's mono + one-accent-color aesthetic.
+          # color_dots runs empty cell -> busiest day.
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#000000&color_dots=#FFFFFF,#CCCCCC,#999999,#4D4D4D,#000000
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#FFFFFF&color_dots=#000000,#333333,#666666,#B3B3B3,#FFFFFF
+            dist/github-contribution-grid-snake.svg?color_snake=#3FB950&color_dots=#FFFFFF,#CCCCCC,#999999,#4D4D4D,#000000
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#3FB950&color_dots=#000000,#333333,#666666,#B3B3B3,#FFFFFF
 
       - name: Push snake animation to output branch
         uses: crazy-max/ghaction-github-pages@v4

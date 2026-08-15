@@ -3,15 +3,15 @@
   "fileName": "profile-mono.svg",
   "backgroundColor": "#0D1117",
   "foregroundColor": "#F0F6FC",
-  "strongColor": "#F0F6FC",
+  "strongColor": "#3FB950",
   "weakColor": "#8B949E",
-  "radarColor": "#8B949E",
+  "radarColor": "#3FB950",
   "growingAnimation": true,
   "contribColors": [
     "#161B22",
     "#30363D",
     "#57606A",
     "#8B949E",
-    "#F0F6FC"
+    "#3FB950"
   ]
 }

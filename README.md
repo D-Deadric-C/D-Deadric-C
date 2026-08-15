@@ -23,14 +23,9 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0D1117,50:8B949E,100:0D1117" alt="" />
 </div>
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%"><sub><b>CURRENTLY</b></sub><br /><sub>B.E. Computer Science<br />Thapar · 2027</sub></td>
-    <td align="center" width="25%"><sub><b>FOCUS</b></sub><br /><sub>AI systems<br />Cloud infrastructure</sub></td>
-    <td align="center" width="25%"><sub><b>ALGORITHMS</b></sub><br /><sub>1,100+ problems<br />Top 12% LeetCode</sub></td>
-    <td align="center" width="25%"><sub><b>OPEN TO</b></sub><br /><sub>Software engineering<br />internships</sub></td>
-  </tr>
-</table>
+<div align="center">
+  <img width="92%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/facts.svg" alt="Currently: B.E. Computer Science, Thapar 2027 · Focus: AI systems, cloud infrastructure · Algorithms: 1,100+ problems, top 12% LeetCode · Open to: software engineering internships" />
+</div>
 
 <br />
 
@@ -43,36 +38,7 @@
 </div>
 
 <div align="center">
-
-<table>
-  <tr>
-    <td align="right" width="26%"><sub><b>LANGUAGES</b></sub></td>
-    <td><img src="https://skillicons.dev/icons?i=ts,js,python,cpp&theme=dark" alt="" /></td>
-  </tr>
-  <tr>
-    <td align="right"><sub><b>FRONTEND</b></sub></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" alt="" /></td>
-  </tr>
-  <tr>
-    <td align="right"><sub><b>BACKEND</b></sub></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,fastapi,prisma,postgres,redis&theme=dark" alt="" /></td>
-  </tr>
-  <tr>
-    <td align="right"><sub><b>CLOUD &amp; OPS</b></sub></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,azure,gcp,vercel,linux,git&theme=dark" alt="" /></td>
-  </tr>
-  <tr>
-    <td align="right"><sub><b>AI</b></sub></td>
-    <td>
-      <img src="https://img.shields.io/badge/Gemini-161B22?style=flat-square&logo=googlegemini&logoColor=8B949E" alt="" />
-      <img src="https://img.shields.io/badge/LangChain-161B22?style=flat-square&logo=langchain&logoColor=8B949E" alt="" />
-      <img src="https://img.shields.io/badge/Hugging_Face-161B22?style=flat-square&logo=huggingface&logoColor=8B949E" alt="" />
-      <img src="https://img.shields.io/badge/Ollama-161B22?style=flat-square&logo=ollama&logoColor=8B949E" alt="" />
-      <img src="https://img.shields.io/badge/ChromaDB-161B22?style=flat-square&logoColor=8B949E" alt="" />
-    </td>
-  </tr>
-</table>
-
+  <img width="72%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/stack.svg" alt="Languages: TypeScript, JavaScript, Python, C++ · Frontend: React, Next.js, Tailwind, HTML, CSS · Backend: Node.js, FastAPI, Prisma, PostgreSQL, Redis · Cloud and ops: Docker, Azure, GCP, Vercel, Linux, Git · AI: Gemini, LangChain, Hugging Face, Ollama, ChromaDB" />
 </div>
 
 <br />

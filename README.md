@@ -96,7 +96,7 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3><img width="14" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/pulse.svg" alt="" /> &nbsp;GitPulse</h3>
+      <h3>GitPulse &nbsp;<img width="84" height="20" valign="middle" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/status-active.svg" alt="active" /></h3>
       <p><sub>
         AI repository intelligence. Chat with any codebase, generate architecture
         diagrams, run security scans — without cloning.
@@ -115,7 +115,7 @@
       <a href="https://gitpulse-web.yellowstone-745f9fa6.centralindia.azurecontainerapps.io"><img src="https://img.shields.io/badge/Live-0D1117?style=flat-square&logo=vercel&logoColor=F0F6FC" alt="" /></a>
     </td>
     <td width="50%" valign="top">
-      <h3><img width="14" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/pulse.svg" alt="" /> &nbsp;AI Video Assistant</h3>
+      <h3>AI Video Assistant &nbsp;<img width="84" height="20" valign="middle" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/status-active.svg" alt="active" /></h3>
       <p><sub>
         Transcribes and summarises full-length YouTube videos, then answers
         questions grounded in the transcript.
@@ -194,15 +194,6 @@ YAML         17 mins               █▒░░░░░░░░░░░░░
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1400&pause=60000&color=F0F6FC&center=true&vCenter=true&repeat=false&width=300&height=38&lines=%2F%2F+ACTIVITY" alt="" />
 
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=D-Deadric-C&show_icons=true&hide_border=true&bg_color=00000000&title_color=F0F6FC&text_color=8B949E&icon_color=3FB950&include_all_commits=true&count_private=true&hide_title=true&rank_icon=github" alt="" />
-<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=D-Deadric-C&hide_border=true&background=00000000&stroke=30363D&ring=3FB950&fire=3FB950&currStreakLabel=8B949E&sideNums=F0F6FC&currStreakNum=F0F6FC&dates=6E7681&sideLabels=8B949E" alt="" />
-
-<br /><br />
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Deadric-C&layout=compact&hide_border=true&bg_color=00000000&title_color=F0F6FC&text_color=8B949E&langs_count=8" alt="" />
-
-<br /><br />
-
-<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=D-Deadric-C&bg_color=00000000&color=3FB950&line=8B949E&point=3FB950&area=true&area_color=30363D&hide_border=true&custom_title=Contribution%20Activity" alt="" />
 
 <br /><br />
 

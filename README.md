@@ -1,37 +1,15 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0D1117,40:1C2128,70:30363D,100:8B949E&animation=fadeIn" alt="" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0D1117,40:1C2128,70:30363D,100:8B949E&animation=fadeIn" alt="" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&duration=2600&pause=60000&color=F0F6FC&center=true&vCenter=true&repeat=false&width=460&height=44&lines=SURYANSH+SHARMA" alt="" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&duration=2400&pause=60000&color=F0F6FC&center=true&vCenter=true&repeat=false&width=440&height=42&lines=SURYANSH+SHARMA" alt="" />
   <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2800&pause=900&color=8B949E&center=true&vCenter=true&width=460&height=24&lines=ai+systems+%C2%B7+backend+%C2%B7+cloud;containerised%2C+tested%2C+deployed;shipping+%E2%80%94+not+prototyping" alt="" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2600&pause=900&color=8B949E&center=true&vCenter=true&width=440&height=24&lines=ai+systems+%C2%B7+backend+%C2%B7+cloud;containerised%2C+tested%2C+deployed;shipping+%E2%80%94+not+prototyping" alt="" />
 </div>
 
 <div align="center">
-
-```
-╔════════════════════════════════════════════════════════════════╗
-║  ● ● ●                                                   bash  ║▓░
-╠════════════════════════════════════════════════════════════════╣▓░
-║                                                                ║▓░
-║          █▓           [D-Deadric-C@arch ~]$ neofetch           ║▓░
-║         ██▓▓                                                   ║▓░
-║        ███▓▓▓         user ....  Suryansh Sharma               ║▓░
-║       ████▓▓▓▓        host ....  Thapar · B.E. CSE '27         ║▓░
-║      █████▓▓▓▓▓       langs ...  Python · TypeScript · C++     ║▓░
-║     ██████▓▓▓▓▓▓      stack ...  FastAPI · Next.js · Postgres  ║▓░
-║    ███████▓▓▓▓▓▓▓     cloud ...  Docker · Azure · GCP          ║▓░
-║   ██████    ▓▓▓▓▓▓    algo ....  1,100+ solved · top 12%       ║▓░
-║  ██████      ▓▓▓▓▓▓   status ..  open to SWE internships       ║▓░
-║   ░░░░░░░░░░░░░░░░░                                            ║▓░
-║                       [D-Deadric-C@arch ~]$ █                  ║▓░
-║                                                                ║▓░
-╚════════════════════════════════════════════════════════════════╝▓░
- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░
-  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-```
-
+  <img width="86%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/terminal.svg" alt="" />
 </div>
 
 <div align="center">
@@ -45,21 +23,6 @@
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0D1117,50:8B949E,100:0D1117" alt="" />
-</div>
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════╗
-║  I build software that reaches production.    ║▓░
-║                                               ║▓░
-║  LLM pipelines and backend services, through  ║▓░
-║  containerisation, cloud deploy and testing.  ║▓░
-╚═══════════════════════════════════════════════╝▓░
- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░
-  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-```
-
 </div>
 
 <table align="center">
@@ -79,45 +42,9 @@
 
 <div align="center">
 
-```
-█▀▀  ▀█▀  █▀█  █▀▀  █ █ ▓
-▀▀█   █   █▀█  █    █▀▄ ▓
-▀▀▀   ▀   ▀ ▀  ▀▀▀  ▀ ▀ ▓
-  ░░░░░░░░░░░░░░░░░░░░░░░
-```
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1400&pause=60000&color=F0F6FC&center=true&vCenter=true&repeat=false&width=300&height=38&lines=%2F%2F+STACK" alt="" />
 
-```
-╔══════════════════════════════════════════════════╗
-║  ▓▓  INTERFACE                                   ║▓░
-║      Next.js · React · TypeScript · Tailwind     ║▓░
-╚══════════════════════════════════════════════════╝▓░
- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░
-  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-╔══════════════════════════════════════════════════╗
-║  ▓▓  SERVICE                                     ║▓░
-║      FastAPI · Node · Prisma · streaming         ║▓░
-╚══════════════════════════════════════════════════╝▓░
- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░
-  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-╔══════════════════════════════════════════════════╗
-║  ▓▓  INTELLIGENCE                                ║▓░
-║      LangChain · Gemini · Whisper · ChromaDB     ║▓░
-╚══════════════════════════════════════════════════╝▓░
- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░
-  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-╔══════════════════════════════════════════════════╗
-║  ▓▓  STATE                                       ║▓░
-║      PostgreSQL · Redis · vector stores          ║▓░
-╚══════════════════════════════════════════════════╝▓░
- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░
-  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-╔══════════════════════════════════════════════════╗
-║  ▓▓  PLATFORM                                    ║▓░
-║      Docker · Azure Container Apps · CI/CD       ║▓░
-╚══════════════════════════════════════════════════╝▓░
- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░
-  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-```
+<img width="52%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/stack.svg" alt="" />
 
 <br />
 
@@ -160,22 +87,9 @@
 
 <div align="center">
 
-```
-█ █  █▀█  █▀█  █ █ ▓
-█▄█  █ █  █▀▄  █▀▄ ▓
-▀▀▀  ▀▀▀  ▀ ▀  ▀ ▀ ▓
-  ░░░░░░░░░░░░░░░░░░
-```
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1400&pause=60000&color=F0F6FC&center=true&vCenter=true&repeat=false&width=300&height=38&lines=%2F%2F+WORK" alt="" />
 
-```
-  ┌────────────┐       ┌────────────┐       ┌────────────┐       ┌────────────┐
- ╱            ╱│      ╱            ╱│      ╱            ╱│      ╱            ╱│
-┌────────────┐ │     ┌────────────┐ │     ┌────────────┐ │     ┌────────────┐ │
-│   INGEST   │ ╱ ──▶ │   EMBED    │ ╱ ──▶ │  RETRIEVE  │ ╱ ──▶ │   SERVE    │ ╱
-└────────────┘╱      └────────────┘╱      └────────────┘╱      └────────────┘╱
- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-```
+<img width="82%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/pipeline.svg" alt="" />
 
 </div>
 
@@ -230,32 +144,13 @@
 
 <div align="center">
 
-```
-█▀▄  █▀▀  █▀█  ▀█▀  █ █ ▓
-█ █  █▀▀  █▀▀   █   █▀█ ▓
-▀▀   ▀▀▀  ▀     ▀   ▀ ▀ ▓
-  ░░░░░░░░░░░░░░░░░░░░░░░
-```
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1400&pause=60000&color=F0F6FC&center=true&vCenter=true&repeat=false&width=300&height=38&lines=%2F%2F+DEPTH" alt="" />
 
-<img width="92%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/profile-3d-contrib/profile-mono.svg" alt="" />
+<img width="88%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/profile-3d-contrib/profile-mono.svg" alt="" />
 
-```
-                                                ▒▒▓
-                    ▒▒▓             ▒▒▓         ██▓     ▒▒▓
-                    ██▓     ▒▒▓     ██▓     ▒▒▓ ██▓     ██▓     ▒▒▓
-            ▒▒▓     ██▓ ▒▒▓ ██▓     ██▓     ██▓ ██▓ ▒▒▓ ██▓     ██▓
-            ██▓ ▒▒▓ ██▓ ██▓ ██▓ ▒▒▓ ██▓     ██▓ ██▓ ██▓ ██▓ ▒▒▓ ██▓
-    ▒▒▓     ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ▒▒▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓
-    ██▓ ▒▒▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ▒▒▓
-▒▒▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓
-██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓
-██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓
-██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓ ██▓
- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-   ╱  ╱  ╱  ╱  ╱  ╱  ╱  ╱  ╱  ╱  ╱  ╱  ╱  ╱  ╱  ╱  ╱  ╱  ╱  ╱  ╱  ╱  ╱
-  ───────────────────────────────────────────────────────────────────────
-```
+<br />
+
+<img width="200" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/cube.svg" alt="" />
 
 </div>
 
@@ -267,28 +162,23 @@
 
 <div align="center">
 
-```
-█ █  █▀█  █ █  █▀█  █▀▀ ▓
-█▀█  █ █  █ █  █▀▄  ▀▀█ ▓
-▀ ▀  ▀▀▀  ▀▀▀  ▀ ▀  ▀▀▀ ▓
-  ░░░░░░░░░░░░░░░░░░░░░░░
-```
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1400&pause=60000&color=F0F6FC&center=true&vCenter=true&repeat=false&width=300&height=38&lines=%2F%2F+HOURS" alt="" />
 
 </div>
 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 August 2026 - To: 14 August 2026
+From: 06 August 2026 - To: 13 August 2026
 
-Total Time: 2 hrs 3 mins
+Total Time: 3 hrs 16 mins
 
-Other        2 hrs 13 mins         █████████████░░░░░░░░░░░░   51.97 %
-Bash         36 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.28 %
-JavaScript   31 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.45 %
-Markdown     30 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.84 %
-PowerShell   12 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
-TypeScript   11 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
+Other        2 hrs 13 mins         ██████████░░░░░░░░░░░░░░░   40.48 %
+Markdown     1 hr 18 mins          ██████░░░░░░░░░░░░░░░░░░░   23.69 %
+Bash         36 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
+JavaScript   31 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
+TypeScript   19 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
+YAML         17 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
 ```
 
 <!--END_SECTION:waka-->
@@ -301,12 +191,7 @@ TypeScript   11 mins               █░░░░░░░░░░░░░░
 
 <div align="center">
 
-```
-█▀█  █▀▀  ▀█▀   █   █ █   █   ▀█▀  █ █ ▓
-█▀█  █     █    █   █ █   █    █   ▀█▀ ▓
-▀ ▀  ▀▀▀   ▀    ▀    ▀    ▀    ▀    ▀  ▓
-  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-```
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1400&pause=60000&color=F0F6FC&center=true&vCenter=true&repeat=false&width=300&height=38&lines=%2F%2F+ACTIVITY" alt="" />
 
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=D-Deadric-C&show_icons=true&hide_border=true&bg_color=00000000&title_color=F0F6FC&text_color=8B949E&icon_color=F0F6FC&include_all_commits=true&count_private=true&hide_title=true&rank_icon=github" alt="" />
 <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=D-Deadric-C&hide_border=true&background=00000000&stroke=30363D&ring=F0F6FC&fire=F0F6FC&currStreakLabel=8B949E&sideNums=F0F6FC&currStreakNum=F0F6FC&dates=6E7681&sideLabels=8B949E" alt="" />
@@ -336,20 +221,7 @@ TypeScript   11 mins               █░░░░░░░░░░░░░░
 <br />
 
 <div align="center">
-
-```
-╔══════════════════════════════════════════════╗
-║  [D-Deadric-C@arch ~]$ cat contact.txt       ║▓░
-║                                              ║▓░
-║  > open to software engineering internships  ║▓░
-║  > suryansh456789@gmail.com                  ║▓░
-║                                              ║▓░
-║  [D-Deadric-C@arch ~]$ exit █                ║▓░
-╚══════════════════════════════════════════════╝▓░
- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░
-  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-```
-
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2600&pause=1200&color=8B949E&center=true&vCenter=true&width=520&height=28&lines=%5BD-Deadric-C%40arch+~%5D%24+open+to+SWE+internships;%5BD-Deadric-C%40arch+~%5D%24+suryansh456789%40gmail.com" alt="" />
 </div>
 
 <div align="center">

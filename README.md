@@ -113,5 +113,5 @@
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:E8E8E8,45:8C8C8C,100:000000" alt="" />
+  <img width="100%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/banner-bottom.svg" alt="" />
 </div>

@@ -1,19 +1,18 @@
-# Writes your WakaTime coding stats into the profile README.
+# Renders WakaTime coding stats into assets/hours.svg.
 #
-# Goes in the profile repo at .github/workflows/waka-readme.yml
-#
-# Unlike an image service, this rewrites the README text itself — so it never
-# 503s, and the stats are readable as plain text (which also means recruiters
-# scanning the page actually see them).
+# The old setup used athul/waka-readme to write a plain-text block between
+# markers in the README. That block has been replaced by the hours dial, so this
+# now runs scripts/hours_svg.py, which pulls last-7-days stats straight from the
+# WakaTime API and redraws the SVG (dial arcs + per-language bars).
 #
 # Setup:
 #   1. Install the WakaTime extension in your editor and sign in.
 #   2. wakatime.com -> Settings -> copy your Secret API Key.
 #   3. This repo -> Settings -> Secrets and variables -> Actions -> New secret
 #      Name: WAKATIME_API_KEY
-#   4. Put these two markers in README.md where the stats should appear:
-#        <!--START_SECTION:waka-->
-#        <!--END_SECTION:waka-->
+#
+# If the key is missing or the API call fails the script leaves the existing
+# SVG alone, so a bad run never blanks the section.
 
 name: WakaTime Stats
 
@@ -27,20 +26,24 @@ permissions:
   contents: write
 
 jobs:
-  update-readme:
+  update-hours:
     runs-on: ubuntu-latest
     steps:
-      - name: Update README with WakaTime stats
-        uses: athul/waka-readme@master
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
         with:
+          python-version: "3.12"
+
+      - name: Redraw hours.svg from WakaTime
+        env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          SHOW_TITLE: "true"
-          BLOCKS: "░▒▓█"
-          TIME_RANGE: last_7_days
-          LANG_COUNT: 6
-          SHOW_TIME: "true"
-          SHOW_TOTAL: "true"
-          SHOW_MASKED_TIME: "false"
-          # Stops the action committing when nothing changed.
-          COMMIT_MESSAGE: "chore: update WakaTime stats"
+        run: python scripts/hours_svg.py
+
+      - name: Commit and push
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A assets/hours.svg
+          git commit -m "chore: update WakaTime hours" || exit 0
+          git push

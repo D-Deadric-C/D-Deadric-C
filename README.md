@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/hero.svg" alt="Suryansh Sharma" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,35:2E2E2E,70:8C8C8C,100:E8E8E8&text=SURYANSH%20SHARMA&fontColor=FFFFFF&fontSize=50&fontAlignY=36&animation=fadeIn&desc=ai%20systems%20%E2%80%A2%20backend%20%E2%80%A2%20cloud&descSize=20&descAlignY=57" alt="Suryansh Sharma" />
 </div>
 
 <div align="center">
@@ -24,7 +24,7 @@
 </div>
 
 <div align="center">
-  <img width="92%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/divider.svg" alt="" />
+  <img width="100%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/divider.svg" alt="" />
 </div>
 
 <div align="center">
@@ -36,7 +36,7 @@
 </div>
 
 <div align="center">
-  <img width="92%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/divider.svg" alt="" />
+  <img width="100%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/divider.svg" alt="" />
 </div>
 
 <div align="center">
@@ -61,7 +61,7 @@
 </div>
 
 <div align="center">
-  <img width="92%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/divider.svg" alt="" />
+  <img width="100%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/divider.svg" alt="" />
 </div>
 
 <div align="center">
@@ -73,7 +73,7 @@
 </div>
 
 <div align="center">
-  <img width="92%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/divider.svg" alt="" />
+  <img width="100%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/divider.svg" alt="" />
 </div>
 
 <div align="center">
@@ -81,28 +81,11 @@
 </div>
 
 <div align="center">
-  <img width="80%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/hours.svg" alt="Where the hours go" />
+  <img width="88%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/hours.svg" alt="Where the hours go" />
 </div>
 
-<!--START_SECTION:waka-->
-
-```txt
-From: 06 August 2026 - To: 13 August 2026
-
-Total Time: 3 hrs 16 mins
-
-Other        2 hrs 13 mins         ██████████░░░░░░░░░░░░░░░   40.48 %
-Markdown     1 hr 18 mins          ██████░░░░░░░░░░░░░░░░░░░   23.69 %
-Bash         36 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
-JavaScript   31 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
-TypeScript   19 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
-YAML         17 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
-```
-
-<!--END_SECTION:waka-->
-
 <div align="center">
-  <img width="92%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/divider.svg" alt="" />
+  <img width="100%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/divider.svg" alt="" />
 </div>
 
 <div align="center">
@@ -130,5 +113,5 @@ YAML         17 mins               █▒░░░░░░░░░░░░░
 </div>
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/banner-bottom.svg" alt="" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:E8E8E8,45:8C8C8C,100:000000" alt="" />
 </div>

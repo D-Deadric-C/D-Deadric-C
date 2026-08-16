@@ -1,7 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 16" width="1000" height="16" role="img" preserveAspectRatio="none">
-<rect width="1000" height="16" fill="#000000"/>
-<defs><linearGradient id="dg" x1="0" x2="1"><stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="50%" stop-color="#FFFFFF" stop-opacity=".55"/><stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient></defs>
-<line x1="0" y1="8.0" x2="1000" y2="8.0" stroke="#2A2A2A" stroke-width="1"/>
-<rect x="0" y="7.25" width="1000" height="1.5" fill="url(#dg)"/>
-<circle r="2.6" cy="8.0" fill="#FFFFFF"><animate attributeName="cx" values="0;1000;0" dur="9s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/><animate attributeName="opacity" values="0;1;1;0" dur="9s" repeatCount="indefinite"/></circle>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 20" width="1400" height="20" role="img" preserveAspectRatio="none">
+<rect width="1400" height="20" fill="#000000"/>
+<defs><linearGradient id="dg" x1="0" x2="1"><stop offset="0%" stop-color="#FFFFFF" stop-opacity=".25"/><stop offset="50%" stop-color="#FFFFFF" stop-opacity="1"/><stop offset="100%" stop-color="#FFFFFF" stop-opacity=".25"/></linearGradient></defs>
+<rect x="0" y="8.25" width="1400" height="3.5" fill="url(#dg)"/>
+<circle r="4" cy="10.0" fill="#FFFFFF"><animate attributeName="cx" values="0;1400;0" dur="8s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/><animate attributeName="opacity" values="0;1;1;0" dur="8s" repeatCount="indefinite"/></circle>
 </svg>

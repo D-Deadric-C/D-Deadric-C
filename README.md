@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,35:2E2E2E,70:8C8C8C,100:E8E8E8&text=SURYANSH%20SHARMA&fontColor=FFFFFF&fontSize=50&fontAlignY=36&animation=fadeIn&desc=ai%20systems%20%E2%80%A2%20backend%20%E2%80%A2%20cloud&descSize=20&descAlignY=57" alt="Suryansh Sharma" />
+  <img width="100%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/hero.svg" alt="Suryansh Sharma" />
 </div>
 
 <div align="center">

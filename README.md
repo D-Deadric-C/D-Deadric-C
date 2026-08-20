@@ -61,6 +61,18 @@
 </div>
 
 <div align="center">
+  <a href="https://github.com/D-Deadric-C/NexAura"><img width="46%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/card-nexaura.svg" alt="NexAura — real-time communication platform with chat, WebRTC calls, watch parties and a collaborative whiteboard. React, Node.js, WebRTC, MongoDB." /></a>
+  <a href="https://github.com/D-Deadric-C/escape"><img width="46%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/card-escape.svg" alt="escape — self-hosted zero-config VPN with a censorship-resistant transport layer. WireGuard, wstunnel, Bash, Python." /></a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/D-Deadric-C/NexAura"><img src="https://img.shields.io/badge/NexAura_Source-0A0A0A?style=flat-square&logo=github&logoColor=F0F6FC" alt="NexAura source" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/D-Deadric-C/escape"><img src="https://img.shields.io/badge/escape_Source-0A0A0A?style=flat-square&logo=github&logoColor=F0F6FC" alt="escape source" /></a>
+  <a href="https://github.com/D-Deadric-C/escape#-install"><img src="https://img.shields.io/badge/Install-0A0A0A?style=flat-square&logo=linux&logoColor=FFA657" alt="escape install" /></a>
+</div>
+
+<div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/D-Deadric-C/D-Deadric-C/main/assets/divider.svg" alt="" />
 </div>
 
